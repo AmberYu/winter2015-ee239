@@ -16,7 +16,7 @@ host = 'api.topsy.com'
 url = '/v2/content/tweets.json'
 
 #########   set query parameters
-params = urllib.urlencode({'apikey' : API_KEY, 'q' :'#Patriots, #Halftime',
+params = urllib.urlencode({'apikey' : API_KEY, 'q' :'#Halftime',
                            'mintime': str(mintime), 'maxtime': str(maxtime),
                            'new_only': '1', 'include_metrics':'1', 'limit': 5})
 
@@ -41,7 +41,7 @@ resp_content = resp.read()
 ret = json.loads(resp_content)
 tweets = ret['response']['results']['list']
 
-f=open('Patriots.txt','w')
+f=open('Halftime.txt','w')
 for item in tweets:
     print>>f, item
 f.close()
