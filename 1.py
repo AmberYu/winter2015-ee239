@@ -6,8 +6,8 @@ import datetime, time
 
 
 #########   create UNIX timestamps
-start_date = datetime.datetime(2015,01,14, 12,30,0)
-end_date = datetime.datetime(2015,01,29, 17,15,0)
+start_date = datetime.datetime(2015,02,01, 18,50,0)
+end_date = datetime.datetime(2015,02,01, 20,00,0)
 mintime = int(time.mktime(start_date.timetuple()))
 maxtime = int(time.mktime(end_date.timetuple()))
 
