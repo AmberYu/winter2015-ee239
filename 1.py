@@ -7,7 +7,7 @@ import datetime, time
 
 #########   create UNIX timestamps
 start_date = datetime.datetime(2015,02,01, 18,50,0)
-end_date = datetime.datetime(2015,02,01, 20,00,0)
+end_date = datetime.datetime(2015,02,01, 19,20,0)
 mintime = int(time.mktime(start_date.timetuple()))
 maxtime = int(time.mktime(end_date.timetuple()))
 
@@ -16,9 +16,9 @@ host = 'api.topsy.com'
 url = '/v2/content/tweets.json'
 
 #########   set query parameters
-params = urllib.urlencode({'apikey' : API_KEY, 'q' :'#Halftime',
+params = urllib.urlencode({'apikey' : API_KEY, 'q' :'#Halftime,#Patriot',
                            'mintime': str(mintime), 'maxtime': str(maxtime),
-                           'new_only': '1', 'include_metrics':'1', 'limit': 5})
+                           'new_only': '1', 'include_metrics':'1', 'limit': 50})
 
 
 
@@ -41,7 +41,7 @@ resp_content = resp.read()
 ret = json.loads(resp_content)
 tweets = ret['response']['results']['list']
 
-f=open('Halftime.txt','w')
+f=open('Multipletest.txt','w')
 for item in tweets:
     print>>f, item
 f.close()
