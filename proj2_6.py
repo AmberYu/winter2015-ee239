@@ -1,13 +1,11 @@
 import json
-import ast
 def parser(i):
 	tweets = []
 	for line in open('tweets.txt'):
 		try: 
-			line_json = json.dumps(ast.literal_eval(line))
-			tweets.append(json.loads(line_json))
+			tweets.append(json.loads(line))
 		except:
-			pass
+			print "error when reading tweets.txt"
 
 	tweet_firstpost_date = tweets[i]['firstpost_date']
 	tweet_text = tweets[i]['tweet']['text']
