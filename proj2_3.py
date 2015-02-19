@@ -3,10 +3,10 @@ import os
 
 if os.path.isfile('number_tags.txt'):
 	os.remove('number_tags.txt')
-if os.path.isfile('numbers_persecond_#Patriots.txt'):
-	os.remove('numbers_persecond_#Patriots.txt')
-if os.path.isfile('numbers_persecond_#SuperBowlXLIX.txt'):
-	os.remove('numbers_persecond_#SuperBowlXLIX.txt')
+if os.path.isfile('numbers_persecond_Patriots.txt'):
+	os.remove('numbers_persecond_Patriots.txt')
+if os.path.isfile('numbers_persecond_SuperBowlXLIX.txt'):
+	os.remove('numbers_persecond_SuperBowlXLIX.txt')
 
 # count the total number of tags
 words = ['#SuperBowlXLIX',
@@ -74,7 +74,7 @@ def tweets_persecond(mintime,query):
 	ret = json.loads(resp_content)
 	tweets = ret['response']['results']['list']
 
-	f=open('numbers_persecond_'+query+'.txt','a')
+	f=open('numbers_persecond_'+query[1:]+'.txt','a')
 	print>>f, mintime,len(tweets),len(tweets)/8.0
 	print mintime,len(tweets),len(tweets)/8.0
 
