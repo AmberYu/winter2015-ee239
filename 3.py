@@ -1,11 +1,12 @@
-
 import os
 
 
 if os.path.isfile('number_tags.txt'):
 	os.remove('number_tags.txt')
-if os.path.isfile('numbers_persecond.txt'):
-	os.remove('numbers_persecond.txt')
+if os.path.isfile('numbers_persecond_#Patriots.txt'):
+	os.remove('numbers_persecond_#Patriots.txt')
+if os.path.isfile('numbers_persecond_#SuperBowlXLIX.txt'):
+	os.remove('numbers_persecond_#SuperBowlXLIX.txt')
 
 # count the total number of tags
 words = ['#SuperBowlXLIX',
@@ -16,7 +17,7 @@ words = ['#SuperBowlXLIX',
 '#Halftime',
 '#superbowlcommercials']
 number_tags = open('number_tags.txt', 'w')
-max_query = '#SuperBowlXLIX'
+max_query = words[0]
 max_count=0
 for word in words:
 	count=0
@@ -28,9 +29,9 @@ for word in words:
 		max_query = word
 		max_count = count
 	print>>number_tags, "total number of ",word,": ",count
+
+print>>number_tags, "most popular hashtag is: ",max_query
 number_tags.close()
-line.close()
-print max_query
 
 # plot nunber per second of tags #SuperBowlXLIX
 import urllib
@@ -73,11 +74,15 @@ def tweets_persecond(mintime,query):
 	ret = json.loads(resp_content)
 	tweets = ret['response']['results']['list']
 
-	f=open('numbers_persecond.txt','a')
+	f=open('numbers_persecond_'+query+'.txt','a')
 	print>>f, mintime,len(tweets),len(tweets)/8.0
 	print mintime,len(tweets),len(tweets)/8.0
 
 
 # every 8 seconds return a count
-for i in range (mintime,maxtime-7,8):
-	tweets_persecond(i,max_query)
+for i in range (mintime,maxtime+1,8):
+	tweets_persecond(i,'#SuperBowlXLIX')
+
+# every 8 seconds return a count
+for i in range (mintime,maxtime+1,8):
+	tweets_persecond(i,'#Patriots')
