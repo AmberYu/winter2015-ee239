@@ -74,8 +74,8 @@ def tweets_persecond(mintime,query):
 	tweets = ret['response']['results']['list']
 
 	f=open('numbers_persecond.txt','a')
-	print>>f, mintime,len(tweets),len(tweets)/5.0
-	print mintime,len(tweets),len(tweets)/5.0
+	print>>f, mintime,len(tweets),len(tweets)/8.0
+	print mintime,len(tweets),len(tweets)/8.0
 
 
 # every 8 seconds return a count
