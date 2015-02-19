@@ -1,0 +1,7 @@
+total number of  #SuperBowlXLIX :  51901
+total number of  #Seahawks :  23840
+total number of  #Patriots :  33130
+total number of  #GoHawks :  6614
+total number of  #GoPatriots :  4051
+total number of  #Halftime :  1326
+total number of  #superbowlcommercials :  1979
