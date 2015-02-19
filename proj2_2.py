@@ -52,7 +52,9 @@ def tweets(mintime,maxtime,query):
 	if len(tweets)<500:
 		f=open('tweets.txt','a')
 		for item in tweets:
-			print>>f, item
+			if item['tweet']['id'] not in hash:
+				hash.add((item['tweet']['id']))
+				print>>f, item
 		f.close()
 	return len(tweets)
 
@@ -83,5 +85,6 @@ queries = ['#SuperBowlXLIX',
 '#Halftime',
 '#superbowlcommercials']
 
+hash = set()
 for query in queries:
 	split_tweets(mintime1,maxtime1,query)
