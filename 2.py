@@ -14,8 +14,8 @@ if os.path.isfile('search_log.txt'):
 
 start_date = datetime.datetime(2015,02,01, 18,50,0)
 end_date = datetime.datetime(2015,02,01, 20,00,0)
-mintime = int(time.mktime(start_date.timetuple()))
-maxtime = int(time.mktime(end_date.timetuple()))
+mintime1 = int(time.mktime(start_date.timetuple()))
+maxtime1 = int(time.mktime(end_date.timetuple()))
 
 
 
@@ -59,18 +59,20 @@ def tweets(mintime,maxtime,query):
 
 def split_tweets(mintime,maxtime,query):
 	len  = tweets(mintime,maxtime,query)
+
+	
 	if len ==500:
 		if(mintime<maxtime):
 			mid = (mintime+maxtime)/2
 			split_tweets(mintime,mid,query)
 			split_tweets(mid,maxtime,query)
 	else:
-		
 		timefrom = time.localtime(mintime)
 		timeto = time.localtime(maxtime)
+
 		search_log = open('search_log.txt', 'a')
-		print  query,"From: ", time.strftime("%Y-%m-%d %H:%M:%S",timefrom),"   To: ",time.strftime("%Y-%m-%d %H:%M:%S",timeto), "No. Of Results: ",len
-		print>>search_log,  query,"   From: ", time.strftime("%Y-%m-%d %H:%M:%S",timefrom),"   To: ",time.strftime("%Y-%m-%d %H:%M:%S",timeto), "No. Of Results: ",len
+		print  query,"From: ",time.strftime("%Y-%m-%d %H:%M:%S",timefrom),"   To: ",time.strftime("%Y-%m-%d %H:%M:%S",timeto), "  No._Of_Results: ",len," time_elapse: ", (maxtime-mintime)," s"
+		print>>search_log,  query,"   From: ", time.strftime("%Y-%m-%d %H:%M:%S",timefrom),"   To: ",time.strftime("%Y-%m-%d %H:%M:%S",timeto), "  No._Of_Results: ",len," time_elapse: ",(maxtime-mintime)," s"
 		search_log.close()
 
 queries = ['#SuperBowlXLIX',
@@ -82,7 +84,4 @@ queries = ['#SuperBowlXLIX',
 '#superbowlcommercials']
 
 for query in queries:
-	split_tweets(mintime,maxtime,query)
-
-
-
+	split_tweets(mintime1,maxtime1,query)
