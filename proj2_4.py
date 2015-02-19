@@ -7,8 +7,7 @@ d=defaultdict(int)
 tweets = []
 for line in open('tweets.txt'):
 	try:
-		line_json = json.dumps(ast.literal_eval(line))
-		tweets.append(json.loads(line_json))
+		tweets.append(json.loads(line))
 	except:
 		pass
 
