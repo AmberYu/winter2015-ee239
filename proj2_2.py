@@ -54,7 +54,7 @@ def tweets(mintime,maxtime,query):
 		for item in tweets:
 			if item['tweet']['id'] not in hash:
 				hash.add((item['tweet']['id']))
-				print>>f, item
+				print>>f, json.dumps(item)
 		f.close()
 	return len(tweets)
 
