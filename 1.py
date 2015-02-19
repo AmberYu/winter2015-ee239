@@ -40,10 +40,8 @@ print resp.status, resp.reason
 resp_content = resp.read()
 ret = json.loads(resp_content)
 tweets = ret['response']['results']['list']
-retweet_count=tweets
-retweet_count=[tweet['tweet']['retweet_count'] for tweet in tweets]
 
-f=open('Multipletest.txt','w')
+f=open('top_tweets.txt','w')
 for item in tweets:
     print>>f, item
 f.close()
