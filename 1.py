@@ -16,9 +16,9 @@ host = 'api.topsy.com'
 url = '/v2/content/tweets.json'
 
 #########   set query parameters
-params = urllib.urlencode({'apikey' : API_KEY, 'q' :'#Halftime,#Patriot',
+params = urllib.urlencode({'apikey' : API_KEY, 'q' :'#Halftime',
                            'mintime': str(mintime), 'maxtime': str(maxtime),
-                           'new_only': '1', 'include_metrics':'1', 'limit': 50})
+                           'new_only': '1', 'include_metrics':'1', 'limit': 10})
 
 
 
@@ -40,6 +40,8 @@ print resp.status, resp.reason
 resp_content = resp.read()
 ret = json.loads(resp_content)
 tweets = ret['response']['results']['list']
+retweet_count=tweets
+retweet_count=[tweet['tweet']['retweet_count'] for tweet in tweets]
 
 f=open('Multipletest.txt','w')
 for item in tweets:
