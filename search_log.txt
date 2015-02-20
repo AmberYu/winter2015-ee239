@@ -1,363 +1,363 @@
-#SuperBowlXLIX    From:  2015-02-01 18:50:00    To:  2015-02-01 18:50:16   No._Of_Results:  352  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 18:50:16    To:  2015-02-01 18:50:32   No._Of_Results:  369  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 18:50:32    To:  2015-02-01 18:50:48   No._Of_Results:  304  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 18:50:48    To:  2015-02-01 18:51:05   No._Of_Results:  265  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 18:51:05    To:  2015-02-01 18:51:21   No._Of_Results:  266  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 18:51:21    To:  2015-02-01 18:51:38   No._Of_Results:  326  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 18:51:38    To:  2015-02-01 18:51:54   No._Of_Results:  311  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 18:51:54    To:  2015-02-01 18:52:11   No._Of_Results:  315  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 18:52:11    To:  2015-02-01 18:52:27   No._Of_Results:  271  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 18:52:27    To:  2015-02-01 18:52:43   No._Of_Results:  258  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 18:52:43    To:  2015-02-01 18:52:59   No._Of_Results:  296  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 18:52:59    To:  2015-02-01 18:53:16   No._Of_Results:  229  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 18:53:16    To:  2015-02-01 18:53:49   No._Of_Results:  408  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 18:53:49    To:  2015-02-01 18:54:22   No._Of_Results:  353  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 18:54:22    To:  2015-02-01 18:54:54   No._Of_Results:  239  time elapse:  32  s
-#SuperBowlXLIX    From:  2015-02-01 18:54:54    To:  2015-02-01 18:55:27   No._Of_Results:  340  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 18:55:27    To:  2015-02-01 18:56:00   No._Of_Results:  247  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 18:56:00    To:  2015-02-01 18:56:33   No._Of_Results:  265  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 18:56:33    To:  2015-02-01 18:57:06   No._Of_Results:  291  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 18:57:06    To:  2015-02-01 18:57:22   No._Of_Results:  214  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 18:57:22    To:  2015-02-01 18:57:39   No._Of_Results:  392  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 18:57:39    To:  2015-02-01 18:57:47   No._Of_Results:  274  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:57:47    To:  2015-02-01 18:57:55   No._Of_Results:  313  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:57:55    To:  2015-02-01 18:58:03   No._Of_Results:  343  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:58:03    To:  2015-02-01 18:58:12   No._Of_Results:  379  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 18:58:12    To:  2015-02-01 18:58:20   No._Of_Results:  357  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:58:20    To:  2015-02-01 18:58:28   No._Of_Results:  396  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:58:28    To:  2015-02-01 18:58:36   No._Of_Results:  393  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:58:36    To:  2015-02-01 18:58:45   No._Of_Results:  417  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 18:58:45    To:  2015-02-01 18:58:53   No._Of_Results:  364  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:58:53    To:  2015-02-01 18:59:01   No._Of_Results:  388  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:59:01    To:  2015-02-01 18:59:09   No._Of_Results:  315  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:59:09    To:  2015-02-01 18:59:17   No._Of_Results:  238  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:59:17    To:  2015-02-01 18:59:25   No._Of_Results:  267  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:59:25    To:  2015-02-01 18:59:33   No._Of_Results:  309  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 18:59:33    To:  2015-02-01 18:59:50   No._Of_Results:  174  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 18:59:50    To:  2015-02-01 19:00:06   No._Of_Results:  249  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:00:06    To:  2015-02-01 19:00:14   No._Of_Results:  230  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:00:14    To:  2015-02-01 19:00:23   No._Of_Results:  365  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:00:23    To:  2015-02-01 19:00:31   No._Of_Results:  319  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:00:31    To:  2015-02-01 19:00:39   No._Of_Results:  368  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:00:39    To:  2015-02-01 19:00:47   No._Of_Results:  369  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:00:47    To:  2015-02-01 19:00:56   No._Of_Results:  411  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:00:56    To:  2015-02-01 19:01:04   No._Of_Results:  391  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:01:04    To:  2015-02-01 19:01:12   No._Of_Results:  413  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:01:12    To:  2015-02-01 19:01:20   No._Of_Results:  393  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:01:20    To:  2015-02-01 19:01:28   No._Of_Results:  385  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:01:28    To:  2015-02-01 19:01:36   No._Of_Results:  377  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:01:36    To:  2015-02-01 19:01:44   No._Of_Results:  440  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:01:44    To:  2015-02-01 19:01:52   No._Of_Results:  444  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:01:52    To:  2015-02-01 19:02:01   No._Of_Results:  483  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:02:01    To:  2015-02-01 19:02:09   No._Of_Results:  389  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:02:09    To:  2015-02-01 19:02:17   No._Of_Results:  301  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:02:17    To:  2015-02-01 19:02:25   No._Of_Results:  324  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:02:25    To:  2015-02-01 19:02:34   No._Of_Results:  301  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:02:34    To:  2015-02-01 19:02:42   No._Of_Results:  270  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:02:42    To:  2015-02-01 19:02:50   No._Of_Results:  278  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:02:50    To:  2015-02-01 19:02:58   No._Of_Results:  248  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:02:58    To:  2015-02-01 19:03:07   No._Of_Results:  260  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:03:07    To:  2015-02-01 19:03:23   No._Of_Results:  385  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:03:23    To:  2015-02-01 19:03:39   No._Of_Results:  378  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:03:39    To:  2015-02-01 19:03:55   No._Of_Results:  483  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:03:55    To:  2015-02-01 19:04:12   No._Of_Results:  386  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 19:04:12    To:  2015-02-01 19:04:20   No._Of_Results:  209  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:04:20    To:  2015-02-01 19:04:28   No._Of_Results:  354  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:04:28    To:  2015-02-01 19:04:36   No._Of_Results:  390  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:04:36    To:  2015-02-01 19:04:45   No._Of_Results:  447  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:04:45    To:  2015-02-01 19:04:53   No._Of_Results:  458  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:04:53    To:  2015-02-01 19:05:01   No._Of_Results:  411  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:05:01    To:  2015-02-01 19:05:09   No._Of_Results:  335  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:05:09    To:  2015-02-01 19:05:18   No._Of_Results:  305  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:05:18    To:  2015-02-01 19:05:26   No._Of_Results:  331  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:05:26    To:  2015-02-01 19:05:34   No._Of_Results:  320  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:05:34    To:  2015-02-01 19:05:42   No._Of_Results:  295  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:05:42    To:  2015-02-01 19:05:51   No._Of_Results:  354  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:05:51    To:  2015-02-01 19:05:59   No._Of_Results:  309  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:05:59    To:  2015-02-01 19:06:07   No._Of_Results:  265  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:06:07    To:  2015-02-01 19:06:15   No._Of_Results:  266  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:06:15    To:  2015-02-01 19:06:24   No._Of_Results:  278  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:06:24    To:  2015-02-01 19:06:32   No._Of_Results:  265  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:06:32    To:  2015-02-01 19:06:40   No._Of_Results:  307  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:06:40    To:  2015-02-01 19:06:48   No._Of_Results:  295  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:06:48    To:  2015-02-01 19:06:57   No._Of_Results:  385  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:06:57    To:  2015-02-01 19:07:05   No._Of_Results:  256  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:07:05    To:  2015-02-01 19:07:13   No._Of_Results:  303  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:07:13    To:  2015-02-01 19:07:21   No._Of_Results:  308  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:07:21    To:  2015-02-01 19:07:30   No._Of_Results:  321  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:07:30    To:  2015-02-01 19:07:38   No._Of_Results:  270  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:07:38    To:  2015-02-01 19:07:46   No._Of_Results:  339  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:07:46    To:  2015-02-01 19:07:54   No._Of_Results:  329  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:07:54    To:  2015-02-01 19:08:02   No._Of_Results:  314  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:08:02    To:  2015-02-01 19:08:10   No._Of_Results:  312  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:08:10    To:  2015-02-01 19:08:18   No._Of_Results:  329  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:08:18    To:  2015-02-01 19:08:26   No._Of_Results:  315  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:08:26    To:  2015-02-01 19:08:35   No._Of_Results:  389  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:08:35    To:  2015-02-01 19:08:43   No._Of_Results:  258  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:08:43    To:  2015-02-01 19:08:51   No._Of_Results:  252  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:08:51    To:  2015-02-01 19:08:59   No._Of_Results:  282  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:08:59    To:  2015-02-01 19:09:08   No._Of_Results:  286  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:09:08    To:  2015-02-01 19:09:16   No._Of_Results:  276  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:09:16    To:  2015-02-01 19:09:24   No._Of_Results:  231  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:09:24    To:  2015-02-01 19:09:32   No._Of_Results:  253  time elapse:  8  s
-#SuperBowlXLIX    From:  2015-02-01 19:09:32    To:  2015-02-01 19:09:41   No._Of_Results:  277  time elapse:  9  s
-#SuperBowlXLIX    From:  2015-02-01 19:09:41    To:  2015-02-01 19:09:57   No._Of_Results:  452  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:09:57    To:  2015-02-01 19:10:13   No._Of_Results:  373  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:10:13    To:  2015-02-01 19:10:29   No._Of_Results:  383  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:10:29    To:  2015-02-01 19:10:46   No._Of_Results:  347  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 19:10:46    To:  2015-02-01 19:11:02   No._Of_Results:  446  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:11:02    To:  2015-02-01 19:11:19   No._Of_Results:  414  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 19:11:19    To:  2015-02-01 19:11:35   No._Of_Results:  288  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:11:35    To:  2015-02-01 19:11:52   No._Of_Results:  260  time elapse:  17  s
-#SuperBowlXLIX    From:  2015-02-01 19:11:52    To:  2015-02-01 19:12:08   No._Of_Results:  302  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:12:08    To:  2015-02-01 19:12:24   No._Of_Results:  262  time elapse:  16  s
-#SuperBowlXLIX    From:  2015-02-01 19:12:24    To:  2015-02-01 19:12:57   No._Of_Results:  484  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:12:57    To:  2015-02-01 19:13:30   No._Of_Results:  466  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:13:30    To:  2015-02-01 19:14:03   No._Of_Results:  471  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:14:03    To:  2015-02-01 19:14:36   No._Of_Results:  425  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:14:36    To:  2015-02-01 19:15:09   No._Of_Results:  426  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:15:09    To:  2015-02-01 19:15:42   No._Of_Results:  366  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:15:42    To:  2015-02-01 19:16:15   No._Of_Results:  393  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:16:15    To:  2015-02-01 19:16:47   No._Of_Results:  379  time elapse:  32  s
-#SuperBowlXLIX    From:  2015-02-01 19:16:47    To:  2015-02-01 19:17:20   No._Of_Results:  392  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:17:20    To:  2015-02-01 19:17:53   No._Of_Results:  367  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:17:53    To:  2015-02-01 19:18:26   No._Of_Results:  326  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:18:26    To:  2015-02-01 19:18:58   No._Of_Results:  291  time elapse:  32  s
-#SuperBowlXLIX    From:  2015-02-01 19:18:58    To:  2015-02-01 19:19:31   No._Of_Results:  292  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:19:31    To:  2015-02-01 19:20:04   No._Of_Results:  336  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:20:04    To:  2015-02-01 19:20:37   No._Of_Results:  256  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:20:37    To:  2015-02-01 19:21:09   No._Of_Results:  247  time elapse:  32  s
-#SuperBowlXLIX    From:  2015-02-01 19:21:09    To:  2015-02-01 19:21:42   No._Of_Results:  268  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:21:42    To:  2015-02-01 19:22:15   No._Of_Results:  245  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:22:15    To:  2015-02-01 19:22:48   No._Of_Results:  286  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:22:48    To:  2015-02-01 19:23:21   No._Of_Results:  284  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:23:21    To:  2015-02-01 19:23:54   No._Of_Results:  296  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:23:54    To:  2015-02-01 19:24:27   No._Of_Results:  282  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:24:27    To:  2015-02-01 19:25:00   No._Of_Results:  255  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:25:00    To:  2015-02-01 19:26:05   No._Of_Results:  493  time elapse:  65  s
-#SuperBowlXLIX    From:  2015-02-01 19:26:05    To:  2015-02-01 19:26:38   No._Of_Results:  265  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:26:38    To:  2015-02-01 19:27:11   No._Of_Results:  267  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:27:11    To:  2015-02-01 19:28:16   No._Of_Results:  492  time elapse:  65  s
-#SuperBowlXLIX    From:  2015-02-01 19:28:16    To:  2015-02-01 19:28:49   No._Of_Results:  264  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:28:49    To:  2015-02-01 19:29:22   No._Of_Results:  250  time elapse:  33  s
-#SuperBowlXLIX    From:  2015-02-01 19:29:22    To:  2015-02-01 19:30:27   No._Of_Results:  372  time elapse:  65  s
-#SuperBowlXLIX    From:  2015-02-01 19:30:27    To:  2015-02-01 19:31:33   No._Of_Results:  317  time elapse:  66  s
-#SuperBowlXLIX    From:  2015-02-01 19:31:33    To:  2015-02-01 19:32:39   No._Of_Results:  286  time elapse:  66  s
-#SuperBowlXLIX    From:  2015-02-01 19:32:39    To:  2015-02-01 19:33:45   No._Of_Results:  338  time elapse:  66  s
-#SuperBowlXLIX    From:  2015-02-01 19:33:45    To:  2015-02-01 19:34:50   No._Of_Results:  310  time elapse:  65  s
-#SuperBowlXLIX    From:  2015-02-01 19:34:50    To:  2015-02-01 19:35:56   No._Of_Results:  307  time elapse:  66  s
-#SuperBowlXLIX    From:  2015-02-01 19:35:56    To:  2015-02-01 19:37:01   No._Of_Results:  279  time elapse:  65  s
-#SuperBowlXLIX    From:  2015-02-01 19:37:01    To:  2015-02-01 19:38:07   No._Of_Results:  255  time elapse:  66  s
-#SuperBowlXLIX    From:  2015-02-01 19:38:07    To:  2015-02-01 19:40:18   No._Of_Results:  469  time elapse:  131  s
-#SuperBowlXLIX    From:  2015-02-01 19:40:18    To:  2015-02-01 19:42:30   No._Of_Results:  415  time elapse:  132  s
-#SuperBowlXLIX    From:  2015-02-01 19:42:30    To:  2015-02-01 19:44:41   No._Of_Results:  413  time elapse:  131  s
-#SuperBowlXLIX    From:  2015-02-01 19:44:41    To:  2015-02-01 19:46:52   No._Of_Results:  330  time elapse:  131  s
-#SuperBowlXLIX    From:  2015-02-01 19:46:52    To:  2015-02-01 19:49:03   No._Of_Results:  344  time elapse:  131  s
-#SuperBowlXLIX    From:  2015-02-01 19:49:03    To:  2015-02-01 19:51:15   No._Of_Results:  362  time elapse:  132  s
-#SuperBowlXLIX    From:  2015-02-01 19:51:15    To:  2015-02-01 20:00:00   No._Of_Results:  356  time elapse:  525  s
-#Seahawks    From:  2015-02-01 18:50:00    To:  2015-02-01 18:51:05   No._Of_Results:  481  time elapse:  65  s
-#Seahawks    From:  2015-02-01 18:51:05    To:  2015-02-01 18:51:38   No._Of_Results:  268  time elapse:  33  s
-#Seahawks    From:  2015-02-01 18:51:38    To:  2015-02-01 18:52:11   No._Of_Results:  248  time elapse:  33  s
-#Seahawks    From:  2015-02-01 18:52:11    To:  2015-02-01 18:53:16   No._Of_Results:  362  time elapse:  65  s
-#Seahawks    From:  2015-02-01 18:53:16    To:  2015-02-01 18:54:22   No._Of_Results:  312  time elapse:  66  s
-#Seahawks    From:  2015-02-01 18:54:22    To:  2015-02-01 18:56:33   No._Of_Results:  424  time elapse:  131  s
-#Seahawks    From:  2015-02-01 18:56:33    To:  2015-02-01 18:57:06   No._Of_Results:  133  time elapse:  33  s
-#Seahawks    From:  2015-02-01 18:57:06    To:  2015-02-01 18:57:39   No._Of_Results:  399  time elapse:  33  s
-#Seahawks    From:  2015-02-01 18:57:39    To:  2015-02-01 18:57:55   No._Of_Results:  405  time elapse:  16  s
-#Seahawks    From:  2015-02-01 18:57:55    To:  2015-02-01 18:58:12   No._Of_Results:  482  time elapse:  17  s
-#Seahawks    From:  2015-02-01 18:58:12    To:  2015-02-01 18:58:20   No._Of_Results:  239  time elapse:  8  s
-#Seahawks    From:  2015-02-01 18:58:20    To:  2015-02-01 18:58:28   No._Of_Results:  276  time elapse:  8  s
-#Seahawks    From:  2015-02-01 18:58:28    To:  2015-02-01 18:58:36   No._Of_Results:  265  time elapse:  8  s
-#Seahawks    From:  2015-02-01 18:58:36    To:  2015-02-01 18:58:45   No._Of_Results:  274  time elapse:  9  s
-#Seahawks    From:  2015-02-01 18:58:45    To:  2015-02-01 18:59:01   No._Of_Results:  449  time elapse:  16  s
-#Seahawks    From:  2015-02-01 18:59:01    To:  2015-02-01 18:59:17   No._Of_Results:  359  time elapse:  16  s
-#Seahawks    From:  2015-02-01 18:59:17    To:  2015-02-01 18:59:50   No._Of_Results:  463  time elapse:  33  s
-#Seahawks    From:  2015-02-01 18:59:50    To:  2015-02-01 19:00:23   No._Of_Results:  198  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:00:23    To:  2015-02-01 19:00:56   No._Of_Results:  355  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:00:56    To:  2015-02-01 19:01:28   No._Of_Results:  402  time elapse:  32  s
-#Seahawks    From:  2015-02-01 19:01:28    To:  2015-02-01 19:02:01   No._Of_Results:  466  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:02:01    To:  2015-02-01 19:02:34   No._Of_Results:  441  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:02:34    To:  2015-02-01 19:03:07   No._Of_Results:  358  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:03:07    To:  2015-02-01 19:03:39   No._Of_Results:  227  time elapse:  32  s
-#Seahawks    From:  2015-02-01 19:03:39    To:  2015-02-01 19:04:12   No._Of_Results:  315  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:04:12    To:  2015-02-01 19:04:45   No._Of_Results:  492  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:04:45    To:  2015-02-01 19:05:01   No._Of_Results:  324  time elapse:  16  s
-#Seahawks    From:  2015-02-01 19:05:01    To:  2015-02-01 19:05:18   No._Of_Results:  264  time elapse:  17  s
-#Seahawks    From:  2015-02-01 19:05:18    To:  2015-02-01 19:05:34   No._Of_Results:  268  time elapse:  16  s
-#Seahawks    From:  2015-02-01 19:05:34    To:  2015-02-01 19:05:51   No._Of_Results:  315  time elapse:  17  s
-#Seahawks    From:  2015-02-01 19:05:51    To:  2015-02-01 19:06:24   No._Of_Results:  489  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:06:24    To:  2015-02-01 19:06:40   No._Of_Results:  258  time elapse:  16  s
-#Seahawks    From:  2015-02-01 19:06:40    To:  2015-02-01 19:06:57   No._Of_Results:  285  time elapse:  17  s
-#Seahawks    From:  2015-02-01 19:06:57    To:  2015-02-01 19:07:30   No._Of_Results:  418  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:07:30    To:  2015-02-01 19:08:02   No._Of_Results:  406  time elapse:  32  s
-#Seahawks    From:  2015-02-01 19:08:02    To:  2015-02-01 19:08:35   No._Of_Results:  404  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:08:35    To:  2015-02-01 19:09:08   No._Of_Results:  373  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:09:08    To:  2015-02-01 19:09:41   No._Of_Results:  389  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:09:41    To:  2015-02-01 19:10:13   No._Of_Results:  344  time elapse:  32  s
-#Seahawks    From:  2015-02-01 19:10:13    To:  2015-02-01 19:10:46   No._Of_Results:  292  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:10:46    To:  2015-02-01 19:11:19   No._Of_Results:  350  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:11:19    To:  2015-02-01 19:11:52   No._Of_Results:  224  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:11:52    To:  2015-02-01 19:12:24   No._Of_Results:  280  time elapse:  32  s
-#Seahawks    From:  2015-02-01 19:12:24    To:  2015-02-01 19:12:57   No._Of_Results:  250  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:12:57    To:  2015-02-01 19:13:30   No._Of_Results:  279  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:13:30    To:  2015-02-01 19:14:03   No._Of_Results:  274  time elapse:  33  s
-#Seahawks    From:  2015-02-01 19:14:03    To:  2015-02-01 19:15:09   No._Of_Results:  443  time elapse:  66  s
-#Seahawks    From:  2015-02-01 19:15:09    To:  2015-02-01 19:16:15   No._Of_Results:  388  time elapse:  66  s
-#Seahawks    From:  2015-02-01 19:16:15    To:  2015-02-01 19:17:20   No._Of_Results:  336  time elapse:  65  s
-#Seahawks    From:  2015-02-01 19:17:20    To:  2015-02-01 19:18:26   No._Of_Results:  359  time elapse:  66  s
-#Seahawks    From:  2015-02-01 19:18:26    To:  2015-02-01 19:19:31   No._Of_Results:  384  time elapse:  65  s
-#Seahawks    From:  2015-02-01 19:19:31    To:  2015-02-01 19:20:37   No._Of_Results:  364  time elapse:  66  s
-#Seahawks    From:  2015-02-01 19:20:37    To:  2015-02-01 19:21:42   No._Of_Results:  286  time elapse:  65  s
-#Seahawks    From:  2015-02-01 19:21:42    To:  2015-02-01 19:22:48   No._Of_Results:  298  time elapse:  66  s
-#Seahawks    From:  2015-02-01 19:22:48    To:  2015-02-01 19:23:54   No._Of_Results:  290  time elapse:  66  s
-#Seahawks    From:  2015-02-01 19:23:54    To:  2015-02-01 19:25:00   No._Of_Results:  266  time elapse:  66  s
-#Seahawks    From:  2015-02-01 19:25:00    To:  2015-02-01 19:27:11   No._Of_Results:  484  time elapse:  131  s
-#Seahawks    From:  2015-02-01 19:27:11    To:  2015-02-01 19:29:22   No._Of_Results:  457  time elapse:  131  s
-#Seahawks    From:  2015-02-01 19:29:22    To:  2015-02-01 19:31:33   No._Of_Results:  442  time elapse:  131  s
-#Seahawks    From:  2015-02-01 19:31:33    To:  2015-02-01 19:33:45   No._Of_Results:  440  time elapse:  132  s
-#Seahawks    From:  2015-02-01 19:33:45    To:  2015-02-01 19:35:56   No._Of_Results:  474  time elapse:  131  s
-#Seahawks    From:  2015-02-01 19:35:56    To:  2015-02-01 19:38:07   No._Of_Results:  416  time elapse:  131  s
-#Seahawks    From:  2015-02-01 19:38:07    To:  2015-02-01 19:40:18   No._Of_Results:  380  time elapse:  131  s
-#Seahawks    From:  2015-02-01 19:40:18    To:  2015-02-01 19:42:30   No._Of_Results:  326  time elapse:  132  s
-#Seahawks    From:  2015-02-01 19:42:30    To:  2015-02-01 19:44:41   No._Of_Results:  321  time elapse:  131  s
-#Seahawks    From:  2015-02-01 19:44:41    To:  2015-02-01 19:46:52   No._Of_Results:  258  time elapse:  131  s
-#Seahawks    From:  2015-02-01 19:46:52    To:  2015-02-01 19:49:03   No._Of_Results:  270  time elapse:  131  s
-#Seahawks    From:  2015-02-01 19:49:03    To:  2015-02-01 19:51:15   No._Of_Results:  302  time elapse:  132  s
-#Seahawks    From:  2015-02-01 19:51:15    To:  2015-02-01 20:00:00   No._Of_Results:  277  time elapse:  525  s
-#Patriots    From:  2015-02-01 18:50:00    To:  2015-02-01 18:50:32   No._Of_Results:  385  time elapse:  32  s
-#Patriots    From:  2015-02-01 18:50:32    To:  2015-02-01 18:51:05   No._Of_Results:  284  time elapse:  33  s
-#Patriots    From:  2015-02-01 18:51:05    To:  2015-02-01 18:52:11   No._Of_Results:  417  time elapse:  66  s
-#Patriots    From:  2015-02-01 18:52:11    To:  2015-02-01 18:53:16   No._Of_Results:  339  time elapse:  65  s
-#Patriots    From:  2015-02-01 18:53:16    To:  2015-02-01 18:54:22   No._Of_Results:  275  time elapse:  66  s
-#Patriots    From:  2015-02-01 18:54:22    To:  2015-02-01 18:56:33   No._Of_Results:  419  time elapse:  131  s
-#Patriots    From:  2015-02-01 18:56:33    To:  2015-02-01 18:57:39   No._Of_Results:  139  time elapse:  66  s
-#Patriots    From:  2015-02-01 18:57:39    To:  2015-02-01 18:58:45   No._Of_Results:  364  time elapse:  66  s
-#Patriots    From:  2015-02-01 18:58:45    To:  2015-02-01 18:59:50   No._Of_Results:  280  time elapse:  65  s
-#Patriots    From:  2015-02-01 18:59:50    To:  2015-02-01 19:00:23   No._Of_Results:  347  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:00:23    To:  2015-02-01 19:00:39   No._Of_Results:  309  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:00:39    To:  2015-02-01 19:00:56   No._Of_Results:  339  time elapse:  17  s
-#Patriots    From:  2015-02-01 19:00:56    To:  2015-02-01 19:01:12   No._Of_Results:  438  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:01:12    To:  2015-02-01 19:01:28   No._Of_Results:  424  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:01:28    To:  2015-02-01 19:01:44   No._Of_Results:  387  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:01:44    To:  2015-02-01 19:02:01   No._Of_Results:  396  time elapse:  17  s
-#Patriots    From:  2015-02-01 19:02:01    To:  2015-02-01 19:02:17   No._Of_Results:  311  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:02:17    To:  2015-02-01 19:02:34   No._Of_Results:  270  time elapse:  17  s
-#Patriots    From:  2015-02-01 19:02:34    To:  2015-02-01 19:03:07   No._Of_Results:  426  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:03:07    To:  2015-02-01 19:03:39   No._Of_Results:  320  time elapse:  32  s
-#Patriots    From:  2015-02-01 19:03:39    To:  2015-02-01 19:04:12   No._Of_Results:  402  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:04:12    To:  2015-02-01 19:04:45   No._Of_Results:  308  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:04:45    To:  2015-02-01 19:05:18   No._Of_Results:  320  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:05:18    To:  2015-02-01 19:05:51   No._Of_Results:  376  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:05:51    To:  2015-02-01 19:06:24   No._Of_Results:  429  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:06:24    To:  2015-02-01 19:06:40   No._Of_Results:  314  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:06:40    To:  2015-02-01 19:06:57   No._Of_Results:  483  time elapse:  17  s
-#Patriots    From:  2015-02-01 19:06:57    To:  2015-02-01 19:07:13   No._Of_Results:  386  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:07:13    To:  2015-02-01 19:07:30   No._Of_Results:  440  time elapse:  17  s
-#Patriots    From:  2015-02-01 19:07:30    To:  2015-02-01 19:07:46   No._Of_Results:  424  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:07:46    To:  2015-02-01 19:08:02   No._Of_Results:  490  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:08:02    To:  2015-02-01 19:08:18   No._Of_Results:  496  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:08:18    To:  2015-02-01 19:08:26   No._Of_Results:  246  time elapse:  8  s
-#Patriots    From:  2015-02-01 19:08:26    To:  2015-02-01 19:08:35   No._Of_Results:  289  time elapse:  9  s
-#Patriots    From:  2015-02-01 19:08:35    To:  2015-02-01 19:08:51   No._Of_Results:  436  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:08:51    To:  2015-02-01 19:09:08   No._Of_Results:  491  time elapse:  17  s
-#Patriots    From:  2015-02-01 19:09:08    To:  2015-02-01 19:09:24   No._Of_Results:  447  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:09:24    To:  2015-02-01 19:09:41   No._Of_Results:  415  time elapse:  17  s
-#Patriots    From:  2015-02-01 19:09:41    To:  2015-02-01 19:09:57   No._Of_Results:  392  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:09:57    To:  2015-02-01 19:10:13   No._Of_Results:  310  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:10:13    To:  2015-02-01 19:10:29   No._Of_Results:  308  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:10:29    To:  2015-02-01 19:10:46   No._Of_Results:  290  time elapse:  17  s
-#Patriots    From:  2015-02-01 19:10:46    To:  2015-02-01 19:11:02   No._Of_Results:  368  time elapse:  16  s
-#Patriots    From:  2015-02-01 19:11:02    To:  2015-02-01 19:11:19   No._Of_Results:  351  time elapse:  17  s
-#Patriots    From:  2015-02-01 19:11:19    To:  2015-02-01 19:11:52   No._Of_Results:  458  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:11:52    To:  2015-02-01 19:12:24   No._Of_Results:  490  time elapse:  32  s
-#Patriots    From:  2015-02-01 19:12:24    To:  2015-02-01 19:12:57   No._Of_Results:  445  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:12:57    To:  2015-02-01 19:13:30   No._Of_Results:  437  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:13:30    To:  2015-02-01 19:14:03   No._Of_Results:  433  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:14:03    To:  2015-02-01 19:14:36   No._Of_Results:  356  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:14:36    To:  2015-02-01 19:15:09   No._Of_Results:  420  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:15:09    To:  2015-02-01 19:15:42   No._Of_Results:  343  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:15:42    To:  2015-02-01 19:16:15   No._Of_Results:  364  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:16:15    To:  2015-02-01 19:16:47   No._Of_Results:  333  time elapse:  32  s
-#Patriots    From:  2015-02-01 19:16:47    To:  2015-02-01 19:17:20   No._Of_Results:  386  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:17:20    To:  2015-02-01 19:17:53   No._Of_Results:  337  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:17:53    To:  2015-02-01 19:18:26   No._Of_Results:  342  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:18:26    To:  2015-02-01 19:18:58   No._Of_Results:  324  time elapse:  32  s
-#Patriots    From:  2015-02-01 19:18:58    To:  2015-02-01 19:19:31   No._Of_Results:  323  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:19:31    To:  2015-02-01 19:20:04   No._Of_Results:  343  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:20:04    To:  2015-02-01 19:20:37   No._Of_Results:  245  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:20:37    To:  2015-02-01 19:21:42   No._Of_Results:  492  time elapse:  65  s
-#Patriots    From:  2015-02-01 19:21:42    To:  2015-02-01 19:22:15   No._Of_Results:  301  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:22:15    To:  2015-02-01 19:22:48   No._Of_Results:  308  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:22:48    To:  2015-02-01 19:23:21   No._Of_Results:  290  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:23:21    To:  2015-02-01 19:23:54   No._Of_Results:  243  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:23:54    To:  2015-02-01 19:25:00   No._Of_Results:  492  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:25:00    To:  2015-02-01 19:25:32   No._Of_Results:  250  time elapse:  32  s
-#Patriots    From:  2015-02-01 19:25:32    To:  2015-02-01 19:26:05   No._Of_Results:  259  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:26:05    To:  2015-02-01 19:27:11   No._Of_Results:  484  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:27:11    To:  2015-02-01 19:27:43   No._Of_Results:  246  time elapse:  32  s
-#Patriots    From:  2015-02-01 19:27:43    To:  2015-02-01 19:28:16   No._Of_Results:  255  time elapse:  33  s
-#Patriots    From:  2015-02-01 19:28:16    To:  2015-02-01 19:29:22   No._Of_Results:  475  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:29:22    To:  2015-02-01 19:30:27   No._Of_Results:  439  time elapse:  65  s
-#Patriots    From:  2015-02-01 19:30:27    To:  2015-02-01 19:31:33   No._Of_Results:  393  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:31:33    To:  2015-02-01 19:32:39   No._Of_Results:  367  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:32:39    To:  2015-02-01 19:33:45   No._Of_Results:  379  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:33:45    To:  2015-02-01 19:34:50   No._Of_Results:  353  time elapse:  65  s
-#Patriots    From:  2015-02-01 19:34:50    To:  2015-02-01 19:35:56   No._Of_Results:  340  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:35:56    To:  2015-02-01 19:37:01   No._Of_Results:  279  time elapse:  65  s
-#Patriots    From:  2015-02-01 19:37:01    To:  2015-02-01 19:38:07   No._Of_Results:  315  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:38:07    To:  2015-02-01 19:39:12   No._Of_Results:  354  time elapse:  65  s
-#Patriots    From:  2015-02-01 19:39:12    To:  2015-02-01 19:40:18   No._Of_Results:  251  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:40:18    To:  2015-02-01 19:41:24   No._Of_Results:  256  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:41:24    To:  2015-02-01 19:42:30   No._Of_Results:  400  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:42:30    To:  2015-02-01 19:43:35   No._Of_Results:  318  time elapse:  65  s
-#Patriots    From:  2015-02-01 19:43:35    To:  2015-02-01 19:44:41   No._Of_Results:  300  time elapse:  66  s
-#Patriots    From:  2015-02-01 19:44:41    To:  2015-02-01 19:46:52   No._Of_Results:  493  time elapse:  131  s
-#Patriots    From:  2015-02-01 19:46:52    To:  2015-02-01 19:49:03   No._Of_Results:  466  time elapse:  131  s
-#Patriots    From:  2015-02-01 19:49:03    To:  2015-02-01 19:51:15   No._Of_Results:  463  time elapse:  132  s
-#Patriots    From:  2015-02-01 19:51:15    To:  2015-02-01 20:00:00   No._Of_Results:  410  time elapse:  525  s
-#GoHawks    From:  2015-02-01 18:50:00    To:  2015-02-01 18:51:05   No._Of_Results:  242  time elapse:  65  s
-#GoHawks    From:  2015-02-01 18:51:05    To:  2015-02-01 18:52:11   No._Of_Results:  334  time elapse:  66  s
-#GoHawks    From:  2015-02-01 18:52:11    To:  2015-02-01 18:54:22   No._Of_Results:  405  time elapse:  131  s
-#GoHawks    From:  2015-02-01 18:54:22    To:  2015-02-01 18:56:33   No._Of_Results:  201  time elapse:  131  s
-#GoHawks    From:  2015-02-01 18:56:33    To:  2015-02-01 18:57:39   No._Of_Results:  195  time elapse:  66  s
-#GoHawks    From:  2015-02-01 18:57:39    To:  2015-02-01 18:58:12   No._Of_Results:  384  time elapse:  33  s
-#GoHawks    From:  2015-02-01 18:58:12    To:  2015-02-01 18:58:28   No._Of_Results:  243  time elapse:  16  s
-#GoHawks    From:  2015-02-01 18:58:28    To:  2015-02-01 18:58:45   No._Of_Results:  269  time elapse:  17  s
-#GoHawks    From:  2015-02-01 18:58:45    To:  2015-02-01 18:59:17   No._Of_Results:  344  time elapse:  32  s
-#GoHawks    From:  2015-02-01 18:59:17    To:  2015-02-01 18:59:50   No._Of_Results:  172  time elapse:  33  s
-#GoHawks    From:  2015-02-01 18:59:50    To:  2015-02-01 19:00:56   No._Of_Results:  69  time elapse:  66  s
-#GoHawks    From:  2015-02-01 19:00:56    To:  2015-02-01 19:03:07   No._Of_Results:  126  time elapse:  131  s
-#GoHawks    From:  2015-02-01 19:03:07    To:  2015-02-01 19:07:30   No._Of_Results:  324  time elapse:  263  s
-#GoHawks    From:  2015-02-01 19:07:30    To:  2015-02-01 19:09:41   No._Of_Results:  314  time elapse:  131  s
-#GoHawks    From:  2015-02-01 19:09:41    To:  2015-02-01 19:11:52   No._Of_Results:  260  time elapse:  131  s
-#GoHawks    From:  2015-02-01 19:11:52    To:  2015-02-01 19:16:15   No._Of_Results:  438  time elapse:  263  s
-#GoHawks    From:  2015-02-01 19:16:15    To:  2015-02-01 19:20:37   No._Of_Results:  378  time elapse:  262  s
-#GoHawks    From:  2015-02-01 19:20:37    To:  2015-02-01 19:25:00   No._Of_Results:  347  time elapse:  263  s
-#GoHawks    From:  2015-02-01 19:25:00    To:  2015-02-01 19:29:22   No._Of_Results:  301  time elapse:  262  s
-#GoHawks    From:  2015-02-01 19:29:22    To:  2015-02-01 19:33:45   No._Of_Results:  254  time elapse:  263  s
-#GoHawks    From:  2015-02-01 19:33:45    To:  2015-02-01 19:42:30   No._Of_Results:  494  time elapse:  525  s
-#GoHawks    From:  2015-02-01 19:42:30    To:  2015-02-01 19:51:15   No._Of_Results:  427  time elapse:  525  s
-#GoHawks    From:  2015-02-01 19:51:15    To:  2015-02-01 20:00:00   No._Of_Results:  93  time elapse:  525  s
-#GoPatriots    From:  2015-02-01 18:50:00    To:  2015-02-01 18:54:22   No._Of_Results:  475  time elapse:  262  s
-#GoPatriots    From:  2015-02-01 18:54:22    To:  2015-02-01 18:58:45   No._Of_Results:  193  time elapse:  263  s
-#GoPatriots    From:  2015-02-01 18:58:45    To:  2015-02-01 19:00:56   No._Of_Results:  216  time elapse:  131  s
-#GoPatriots    From:  2015-02-01 19:00:56    To:  2015-02-01 19:02:01   No._Of_Results:  304  time elapse:  65  s
-#GoPatriots    From:  2015-02-01 19:02:01    To:  2015-02-01 19:03:07   No._Of_Results:  207  time elapse:  66  s
-#GoPatriots    From:  2015-02-01 19:03:07    To:  2015-02-01 19:05:18   No._Of_Results:  226  time elapse:  131  s
-#GoPatriots    From:  2015-02-01 19:05:18    To:  2015-02-01 19:07:30   No._Of_Results:  342  time elapse:  132  s
-#GoPatriots    From:  2015-02-01 19:07:30    To:  2015-02-01 19:09:41   No._Of_Results:  466  time elapse:  131  s
-#GoPatriots    From:  2015-02-01 19:09:41    To:  2015-02-01 19:11:52   No._Of_Results:  299  time elapse:  131  s
-#GoPatriots    From:  2015-02-01 19:11:52    To:  2015-02-01 19:16:15   No._Of_Results:  327  time elapse:  263  s
-#GoPatriots    From:  2015-02-01 19:16:15    To:  2015-02-01 19:25:00   No._Of_Results:  412  time elapse:  525  s
-#GoPatriots    From:  2015-02-01 19:25:00    To:  2015-02-01 19:42:30   No._Of_Results:  423  time elapse:  1050  s
-#GoPatriots    From:  2015-02-01 19:42:30    To:  2015-02-01 20:00:00   No._Of_Results:  161  time elapse:  1050  s
-#Halftime    From:  2015-02-01 18:50:00    To:  2015-02-01 19:07:30   No._Of_Results:  444  time elapse:  1050  s
-#Halftime    From:  2015-02-01 19:07:30    To:  2015-02-01 19:25:00   No._Of_Results:  343  time elapse:  1050  s
-#Halftime    From:  2015-02-01 19:25:00    To:  2015-02-01 19:42:30   No._Of_Results:  337  time elapse:  1050  s
-#Halftime    From:  2015-02-01 19:42:30    To:  2015-02-01 20:00:00   No._Of_Results:  202  time elapse:  1050  s
-#superbowlcommercials    From:  2015-02-01 18:50:00    To:  2015-02-01 18:54:22   No._Of_Results:  451  time elapse:  262  s
-#superbowlcommercials    From:  2015-02-01 18:54:22    To:  2015-02-01 18:58:45   No._Of_Results:  232  time elapse:  263  s
-#superbowlcommercials    From:  2015-02-01 18:58:45    To:  2015-02-01 19:07:30   No._Of_Results:  137  time elapse:  525  s
-#superbowlcommercials    From:  2015-02-01 19:07:30    To:  2015-02-01 19:25:00   No._Of_Results:  495  time elapse:  1050  s
-#superbowlcommercials    From:  2015-02-01 19:25:00    To:  2015-02-01 19:42:30   No._Of_Results:  482  time elapse:  1050  s
-#superbowlcommercials    From:  2015-02-01 19:42:30    To:  2015-02-01 20:00:00   No._Of_Results:  182  time elapse:  1050  s
+#SuperBowlXLIX    From:  2015-02-01 18:50:00    To:  2015-02-01 18:50:16   No._Of_Results:  352  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 18:50:16    To:  2015-02-01 18:50:32   No._Of_Results:  369  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 18:50:32    To:  2015-02-01 18:50:48   No._Of_Results:  304  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 18:50:48    To:  2015-02-01 18:51:05   No._Of_Results:  265  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 18:51:05    To:  2015-02-01 18:51:21   No._Of_Results:  266  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 18:51:21    To:  2015-02-01 18:51:38   No._Of_Results:  326  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 18:51:38    To:  2015-02-01 18:51:54   No._Of_Results:  310  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 18:51:54    To:  2015-02-01 18:52:11   No._Of_Results:  314  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 18:52:11    To:  2015-02-01 18:52:27   No._Of_Results:  270  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 18:52:27    To:  2015-02-01 18:52:43   No._Of_Results:  258  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 18:52:43    To:  2015-02-01 18:52:59   No._Of_Results:  296  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 18:52:59    To:  2015-02-01 18:53:16   No._Of_Results:  229  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 18:53:16    To:  2015-02-01 18:53:49   No._Of_Results:  408  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 18:53:49    To:  2015-02-01 18:54:22   No._Of_Results:  353  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 18:54:22    To:  2015-02-01 18:54:54   No._Of_Results:  239  time_elapse:  32  s
+#SuperBowlXLIX    From:  2015-02-01 18:54:54    To:  2015-02-01 18:55:27   No._Of_Results:  339  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 18:55:27    To:  2015-02-01 18:56:00   No._Of_Results:  247  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 18:56:00    To:  2015-02-01 18:56:33   No._Of_Results:  265  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 18:56:33    To:  2015-02-01 18:57:06   No._Of_Results:  291  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 18:57:06    To:  2015-02-01 18:57:22   No._Of_Results:  214  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 18:57:22    To:  2015-02-01 18:57:39   No._Of_Results:  392  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 18:57:39    To:  2015-02-01 18:57:47   No._Of_Results:  274  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:57:47    To:  2015-02-01 18:57:55   No._Of_Results:  313  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:57:55    To:  2015-02-01 18:58:03   No._Of_Results:  343  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:58:03    To:  2015-02-01 18:58:12   No._Of_Results:  379  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 18:58:12    To:  2015-02-01 18:58:20   No._Of_Results:  357  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:58:20    To:  2015-02-01 18:58:28   No._Of_Results:  396  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:58:28    To:  2015-02-01 18:58:36   No._Of_Results:  393  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:58:36    To:  2015-02-01 18:58:45   No._Of_Results:  417  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 18:58:45    To:  2015-02-01 18:58:53   No._Of_Results:  364  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:58:53    To:  2015-02-01 18:59:01   No._Of_Results:  388  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:59:01    To:  2015-02-01 18:59:09   No._Of_Results:  315  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:59:09    To:  2015-02-01 18:59:17   No._Of_Results:  238  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:59:17    To:  2015-02-01 18:59:25   No._Of_Results:  267  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:59:25    To:  2015-02-01 18:59:33   No._Of_Results:  309  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 18:59:33    To:  2015-02-01 18:59:50   No._Of_Results:  174  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 18:59:50    To:  2015-02-01 19:00:06   No._Of_Results:  249  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:00:06    To:  2015-02-01 19:00:14   No._Of_Results:  230  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:00:14    To:  2015-02-01 19:00:23   No._Of_Results:  365  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:00:23    To:  2015-02-01 19:00:31   No._Of_Results:  319  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:00:31    To:  2015-02-01 19:00:39   No._Of_Results:  368  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:00:39    To:  2015-02-01 19:00:47   No._Of_Results:  369  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:00:47    To:  2015-02-01 19:00:56   No._Of_Results:  411  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:00:56    To:  2015-02-01 19:01:04   No._Of_Results:  391  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:01:04    To:  2015-02-01 19:01:12   No._Of_Results:  413  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:01:12    To:  2015-02-01 19:01:20   No._Of_Results:  393  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:01:20    To:  2015-02-01 19:01:28   No._Of_Results:  384  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:01:28    To:  2015-02-01 19:01:36   No._Of_Results:  376  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:01:36    To:  2015-02-01 19:01:44   No._Of_Results:  440  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:01:44    To:  2015-02-01 19:01:52   No._Of_Results:  444  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:01:52    To:  2015-02-01 19:02:01   No._Of_Results:  483  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:02:01    To:  2015-02-01 19:02:09   No._Of_Results:  389  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:02:09    To:  2015-02-01 19:02:17   No._Of_Results:  300  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:02:17    To:  2015-02-01 19:02:25   No._Of_Results:  324  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:02:25    To:  2015-02-01 19:02:34   No._Of_Results:  301  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:02:34    To:  2015-02-01 19:02:42   No._Of_Results:  270  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:02:42    To:  2015-02-01 19:02:50   No._Of_Results:  278  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:02:50    To:  2015-02-01 19:02:58   No._Of_Results:  248  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:02:58    To:  2015-02-01 19:03:07   No._Of_Results:  260  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:03:07    To:  2015-02-01 19:03:23   No._Of_Results:  385  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:03:23    To:  2015-02-01 19:03:39   No._Of_Results:  378  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:03:39    To:  2015-02-01 19:03:55   No._Of_Results:  483  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:03:55    To:  2015-02-01 19:04:12   No._Of_Results:  386  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 19:04:12    To:  2015-02-01 19:04:20   No._Of_Results:  209  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:04:20    To:  2015-02-01 19:04:28   No._Of_Results:  353  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:04:28    To:  2015-02-01 19:04:36   No._Of_Results:  390  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:04:36    To:  2015-02-01 19:04:45   No._Of_Results:  447  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:04:45    To:  2015-02-01 19:04:53   No._Of_Results:  458  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:04:53    To:  2015-02-01 19:05:01   No._Of_Results:  411  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:05:01    To:  2015-02-01 19:05:09   No._Of_Results:  335  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:05:09    To:  2015-02-01 19:05:18   No._Of_Results:  305  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:05:18    To:  2015-02-01 19:05:26   No._Of_Results:  331  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:05:26    To:  2015-02-01 19:05:34   No._Of_Results:  320  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:05:34    To:  2015-02-01 19:05:42   No._Of_Results:  295  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:05:42    To:  2015-02-01 19:05:51   No._Of_Results:  353  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:05:51    To:  2015-02-01 19:05:59   No._Of_Results:  309  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:05:59    To:  2015-02-01 19:06:07   No._Of_Results:  265  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:06:07    To:  2015-02-01 19:06:15   No._Of_Results:  265  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:06:15    To:  2015-02-01 19:06:24   No._Of_Results:  278  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:06:24    To:  2015-02-01 19:06:32   No._Of_Results:  265  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:06:32    To:  2015-02-01 19:06:40   No._Of_Results:  307  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:06:40    To:  2015-02-01 19:06:48   No._Of_Results:  295  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:06:48    To:  2015-02-01 19:06:57   No._Of_Results:  385  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:06:57    To:  2015-02-01 19:07:05   No._Of_Results:  256  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:07:05    To:  2015-02-01 19:07:13   No._Of_Results:  303  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:07:13    To:  2015-02-01 19:07:21   No._Of_Results:  308  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:07:21    To:  2015-02-01 19:07:30   No._Of_Results:  320  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:07:30    To:  2015-02-01 19:07:38   No._Of_Results:  270  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:07:38    To:  2015-02-01 19:07:46   No._Of_Results:  339  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:07:46    To:  2015-02-01 19:07:54   No._Of_Results:  329  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:07:54    To:  2015-02-01 19:08:02   No._Of_Results:  314  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:08:02    To:  2015-02-01 19:08:10   No._Of_Results:  312  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:08:10    To:  2015-02-01 19:08:18   No._Of_Results:  329  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:08:18    To:  2015-02-01 19:08:26   No._Of_Results:  315  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:08:26    To:  2015-02-01 19:08:35   No._Of_Results:  389  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:08:35    To:  2015-02-01 19:08:43   No._Of_Results:  258  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:08:43    To:  2015-02-01 19:08:51   No._Of_Results:  252  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:08:51    To:  2015-02-01 19:08:59   No._Of_Results:  282  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:08:59    To:  2015-02-01 19:09:08   No._Of_Results:  286  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:09:08    To:  2015-02-01 19:09:16   No._Of_Results:  276  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:09:16    To:  2015-02-01 19:09:24   No._Of_Results:  231  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:09:24    To:  2015-02-01 19:09:32   No._Of_Results:  253  time_elapse:  8  s
+#SuperBowlXLIX    From:  2015-02-01 19:09:32    To:  2015-02-01 19:09:41   No._Of_Results:  277  time_elapse:  9  s
+#SuperBowlXLIX    From:  2015-02-01 19:09:41    To:  2015-02-01 19:09:57   No._Of_Results:  451  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:09:57    To:  2015-02-01 19:10:13   No._Of_Results:  373  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:10:13    To:  2015-02-01 19:10:29   No._Of_Results:  383  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:10:29    To:  2015-02-01 19:10:46   No._Of_Results:  347  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 19:10:46    To:  2015-02-01 19:11:02   No._Of_Results:  445  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:11:02    To:  2015-02-01 19:11:19   No._Of_Results:  413  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 19:11:19    To:  2015-02-01 19:11:35   No._Of_Results:  288  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:11:35    To:  2015-02-01 19:11:52   No._Of_Results:  260  time_elapse:  17  s
+#SuperBowlXLIX    From:  2015-02-01 19:11:52    To:  2015-02-01 19:12:08   No._Of_Results:  302  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:12:08    To:  2015-02-01 19:12:24   No._Of_Results:  262  time_elapse:  16  s
+#SuperBowlXLIX    From:  2015-02-01 19:12:24    To:  2015-02-01 19:12:57   No._Of_Results:  484  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:12:57    To:  2015-02-01 19:13:30   No._Of_Results:  465  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:13:30    To:  2015-02-01 19:14:03   No._Of_Results:  471  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:14:03    To:  2015-02-01 19:14:36   No._Of_Results:  424  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:14:36    To:  2015-02-01 19:15:09   No._Of_Results:  426  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:15:09    To:  2015-02-01 19:15:42   No._Of_Results:  366  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:15:42    To:  2015-02-01 19:16:15   No._Of_Results:  393  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:16:15    To:  2015-02-01 19:16:47   No._Of_Results:  377  time_elapse:  32  s
+#SuperBowlXLIX    From:  2015-02-01 19:16:47    To:  2015-02-01 19:17:20   No._Of_Results:  392  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:17:20    To:  2015-02-01 19:17:53   No._Of_Results:  366  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:17:53    To:  2015-02-01 19:18:26   No._Of_Results:  326  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:18:26    To:  2015-02-01 19:18:58   No._Of_Results:  291  time_elapse:  32  s
+#SuperBowlXLIX    From:  2015-02-01 19:18:58    To:  2015-02-01 19:19:31   No._Of_Results:  292  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:19:31    To:  2015-02-01 19:20:04   No._Of_Results:  336  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:20:04    To:  2015-02-01 19:20:37   No._Of_Results:  256  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:20:37    To:  2015-02-01 19:21:09   No._Of_Results:  247  time_elapse:  32  s
+#SuperBowlXLIX    From:  2015-02-01 19:21:09    To:  2015-02-01 19:21:42   No._Of_Results:  268  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:21:42    To:  2015-02-01 19:22:15   No._Of_Results:  245  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:22:15    To:  2015-02-01 19:22:48   No._Of_Results:  286  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:22:48    To:  2015-02-01 19:23:21   No._Of_Results:  283  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:23:21    To:  2015-02-01 19:23:54   No._Of_Results:  296  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:23:54    To:  2015-02-01 19:24:27   No._Of_Results:  281  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:24:27    To:  2015-02-01 19:25:00   No._Of_Results:  255  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:25:00    To:  2015-02-01 19:26:05   No._Of_Results:  493  time_elapse:  65  s
+#SuperBowlXLIX    From:  2015-02-01 19:26:05    To:  2015-02-01 19:26:38   No._Of_Results:  265  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:26:38    To:  2015-02-01 19:27:11   No._Of_Results:  267  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:27:11    To:  2015-02-01 19:28:16   No._Of_Results:  491  time_elapse:  65  s
+#SuperBowlXLIX    From:  2015-02-01 19:28:16    To:  2015-02-01 19:28:49   No._Of_Results:  264  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:28:49    To:  2015-02-01 19:29:22   No._Of_Results:  250  time_elapse:  33  s
+#SuperBowlXLIX    From:  2015-02-01 19:29:22    To:  2015-02-01 19:30:27   No._Of_Results:  372  time_elapse:  65  s
+#SuperBowlXLIX    From:  2015-02-01 19:30:27    To:  2015-02-01 19:31:33   No._Of_Results:  317  time_elapse:  66  s
+#SuperBowlXLIX    From:  2015-02-01 19:31:33    To:  2015-02-01 19:32:39   No._Of_Results:  286  time_elapse:  66  s
+#SuperBowlXLIX    From:  2015-02-01 19:32:39    To:  2015-02-01 19:33:45   No._Of_Results:  338  time_elapse:  66  s
+#SuperBowlXLIX    From:  2015-02-01 19:33:45    To:  2015-02-01 19:34:50   No._Of_Results:  310  time_elapse:  65  s
+#SuperBowlXLIX    From:  2015-02-01 19:34:50    To:  2015-02-01 19:35:56   No._Of_Results:  307  time_elapse:  66  s
+#SuperBowlXLIX    From:  2015-02-01 19:35:56    To:  2015-02-01 19:37:01   No._Of_Results:  279  time_elapse:  65  s
+#SuperBowlXLIX    From:  2015-02-01 19:37:01    To:  2015-02-01 19:38:07   No._Of_Results:  255  time_elapse:  66  s
+#SuperBowlXLIX    From:  2015-02-01 19:38:07    To:  2015-02-01 19:40:18   No._Of_Results:  469  time_elapse:  131  s
+#SuperBowlXLIX    From:  2015-02-01 19:40:18    To:  2015-02-01 19:42:30   No._Of_Results:  414  time_elapse:  132  s
+#SuperBowlXLIX    From:  2015-02-01 19:42:30    To:  2015-02-01 19:44:41   No._Of_Results:  413  time_elapse:  131  s
+#SuperBowlXLIX    From:  2015-02-01 19:44:41    To:  2015-02-01 19:46:52   No._Of_Results:  330  time_elapse:  131  s
+#SuperBowlXLIX    From:  2015-02-01 19:46:52    To:  2015-02-01 19:49:03   No._Of_Results:  344  time_elapse:  131  s
+#SuperBowlXLIX    From:  2015-02-01 19:49:03    To:  2015-02-01 19:51:15   No._Of_Results:  362  time_elapse:  132  s
+#SuperBowlXLIX    From:  2015-02-01 19:51:15    To:  2015-02-01 20:00:00   No._Of_Results:  356  time_elapse:  525  s
+#Seahawks    From:  2015-02-01 18:50:00    To:  2015-02-01 18:51:05   No._Of_Results:  481  time_elapse:  65  s
+#Seahawks    From:  2015-02-01 18:51:05    To:  2015-02-01 18:51:38   No._Of_Results:  268  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 18:51:38    To:  2015-02-01 18:52:11   No._Of_Results:  247  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 18:52:11    To:  2015-02-01 18:53:16   No._Of_Results:  362  time_elapse:  65  s
+#Seahawks    From:  2015-02-01 18:53:16    To:  2015-02-01 18:54:22   No._Of_Results:  312  time_elapse:  66  s
+#Seahawks    From:  2015-02-01 18:54:22    To:  2015-02-01 18:56:33   No._Of_Results:  424  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 18:56:33    To:  2015-02-01 18:57:06   No._Of_Results:  133  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 18:57:06    To:  2015-02-01 18:57:39   No._Of_Results:  399  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 18:57:39    To:  2015-02-01 18:57:55   No._Of_Results:  405  time_elapse:  16  s
+#Seahawks    From:  2015-02-01 18:57:55    To:  2015-02-01 18:58:12   No._Of_Results:  482  time_elapse:  17  s
+#Seahawks    From:  2015-02-01 18:58:12    To:  2015-02-01 18:58:20   No._Of_Results:  239  time_elapse:  8  s
+#Seahawks    From:  2015-02-01 18:58:20    To:  2015-02-01 18:58:28   No._Of_Results:  275  time_elapse:  8  s
+#Seahawks    From:  2015-02-01 18:58:28    To:  2015-02-01 18:58:36   No._Of_Results:  265  time_elapse:  8  s
+#Seahawks    From:  2015-02-01 18:58:36    To:  2015-02-01 18:58:45   No._Of_Results:  274  time_elapse:  9  s
+#Seahawks    From:  2015-02-01 18:58:45    To:  2015-02-01 18:59:01   No._Of_Results:  449  time_elapse:  16  s
+#Seahawks    From:  2015-02-01 18:59:01    To:  2015-02-01 18:59:17   No._Of_Results:  359  time_elapse:  16  s
+#Seahawks    From:  2015-02-01 18:59:17    To:  2015-02-01 18:59:50   No._Of_Results:  463  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 18:59:50    To:  2015-02-01 19:00:23   No._Of_Results:  198  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:00:23    To:  2015-02-01 19:00:56   No._Of_Results:  355  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:00:56    To:  2015-02-01 19:01:28   No._Of_Results:  401  time_elapse:  32  s
+#Seahawks    From:  2015-02-01 19:01:28    To:  2015-02-01 19:02:01   No._Of_Results:  466  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:02:01    To:  2015-02-01 19:02:34   No._Of_Results:  441  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:02:34    To:  2015-02-01 19:03:07   No._Of_Results:  358  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:03:07    To:  2015-02-01 19:03:39   No._Of_Results:  227  time_elapse:  32  s
+#Seahawks    From:  2015-02-01 19:03:39    To:  2015-02-01 19:04:12   No._Of_Results:  315  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:04:12    To:  2015-02-01 19:04:45   No._Of_Results:  490  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:04:45    To:  2015-02-01 19:05:01   No._Of_Results:  324  time_elapse:  16  s
+#Seahawks    From:  2015-02-01 19:05:01    To:  2015-02-01 19:05:18   No._Of_Results:  264  time_elapse:  17  s
+#Seahawks    From:  2015-02-01 19:05:18    To:  2015-02-01 19:05:34   No._Of_Results:  267  time_elapse:  16  s
+#Seahawks    From:  2015-02-01 19:05:34    To:  2015-02-01 19:05:51   No._Of_Results:  315  time_elapse:  17  s
+#Seahawks    From:  2015-02-01 19:05:51    To:  2015-02-01 19:06:24   No._Of_Results:  489  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:06:24    To:  2015-02-01 19:06:40   No._Of_Results:  258  time_elapse:  16  s
+#Seahawks    From:  2015-02-01 19:06:40    To:  2015-02-01 19:06:57   No._Of_Results:  285  time_elapse:  17  s
+#Seahawks    From:  2015-02-01 19:06:57    To:  2015-02-01 19:07:30   No._Of_Results:  418  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:07:30    To:  2015-02-01 19:08:02   No._Of_Results:  406  time_elapse:  32  s
+#Seahawks    From:  2015-02-01 19:08:02    To:  2015-02-01 19:08:35   No._Of_Results:  404  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:08:35    To:  2015-02-01 19:09:08   No._Of_Results:  373  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:09:08    To:  2015-02-01 19:09:41   No._Of_Results:  389  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:09:41    To:  2015-02-01 19:10:13   No._Of_Results:  343  time_elapse:  32  s
+#Seahawks    From:  2015-02-01 19:10:13    To:  2015-02-01 19:10:46   No._Of_Results:  292  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:10:46    To:  2015-02-01 19:11:19   No._Of_Results:  350  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:11:19    To:  2015-02-01 19:11:52   No._Of_Results:  224  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:11:52    To:  2015-02-01 19:12:24   No._Of_Results:  280  time_elapse:  32  s
+#Seahawks    From:  2015-02-01 19:12:24    To:  2015-02-01 19:12:57   No._Of_Results:  250  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:12:57    To:  2015-02-01 19:13:30   No._Of_Results:  279  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:13:30    To:  2015-02-01 19:14:03   No._Of_Results:  274  time_elapse:  33  s
+#Seahawks    From:  2015-02-01 19:14:03    To:  2015-02-01 19:15:09   No._Of_Results:  443  time_elapse:  66  s
+#Seahawks    From:  2015-02-01 19:15:09    To:  2015-02-01 19:16:15   No._Of_Results:  388  time_elapse:  66  s
+#Seahawks    From:  2015-02-01 19:16:15    To:  2015-02-01 19:17:20   No._Of_Results:  336  time_elapse:  65  s
+#Seahawks    From:  2015-02-01 19:17:20    To:  2015-02-01 19:18:26   No._Of_Results:  359  time_elapse:  66  s
+#Seahawks    From:  2015-02-01 19:18:26    To:  2015-02-01 19:19:31   No._Of_Results:  384  time_elapse:  65  s
+#Seahawks    From:  2015-02-01 19:19:31    To:  2015-02-01 19:20:37   No._Of_Results:  363  time_elapse:  66  s
+#Seahawks    From:  2015-02-01 19:20:37    To:  2015-02-01 19:21:42   No._Of_Results:  286  time_elapse:  65  s
+#Seahawks    From:  2015-02-01 19:21:42    To:  2015-02-01 19:22:48   No._Of_Results:  298  time_elapse:  66  s
+#Seahawks    From:  2015-02-01 19:22:48    To:  2015-02-01 19:23:54   No._Of_Results:  290  time_elapse:  66  s
+#Seahawks    From:  2015-02-01 19:23:54    To:  2015-02-01 19:25:00   No._Of_Results:  266  time_elapse:  66  s
+#Seahawks    From:  2015-02-01 19:25:00    To:  2015-02-01 19:27:11   No._Of_Results:  483  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 19:27:11    To:  2015-02-01 19:29:22   No._Of_Results:  457  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 19:29:22    To:  2015-02-01 19:31:33   No._Of_Results:  442  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 19:31:33    To:  2015-02-01 19:33:45   No._Of_Results:  440  time_elapse:  132  s
+#Seahawks    From:  2015-02-01 19:33:45    To:  2015-02-01 19:35:56   No._Of_Results:  474  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 19:35:56    To:  2015-02-01 19:38:07   No._Of_Results:  416  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 19:38:07    To:  2015-02-01 19:40:18   No._Of_Results:  380  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 19:40:18    To:  2015-02-01 19:42:30   No._Of_Results:  326  time_elapse:  132  s
+#Seahawks    From:  2015-02-01 19:42:30    To:  2015-02-01 19:44:41   No._Of_Results:  321  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 19:44:41    To:  2015-02-01 19:46:52   No._Of_Results:  258  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 19:46:52    To:  2015-02-01 19:49:03   No._Of_Results:  270  time_elapse:  131  s
+#Seahawks    From:  2015-02-01 19:49:03    To:  2015-02-01 19:51:15   No._Of_Results:  302  time_elapse:  132  s
+#Seahawks    From:  2015-02-01 19:51:15    To:  2015-02-01 20:00:00   No._Of_Results:  276  time_elapse:  525  s
+#Patriots    From:  2015-02-01 18:50:00    To:  2015-02-01 18:50:32   No._Of_Results:  385  time_elapse:  32  s
+#Patriots    From:  2015-02-01 18:50:32    To:  2015-02-01 18:51:05   No._Of_Results:  284  time_elapse:  33  s
+#Patriots    From:  2015-02-01 18:51:05    To:  2015-02-01 18:52:11   No._Of_Results:  417  time_elapse:  66  s
+#Patriots    From:  2015-02-01 18:52:11    To:  2015-02-01 18:53:16   No._Of_Results:  339  time_elapse:  65  s
+#Patriots    From:  2015-02-01 18:53:16    To:  2015-02-01 18:54:22   No._Of_Results:  275  time_elapse:  66  s
+#Patriots    From:  2015-02-01 18:54:22    To:  2015-02-01 18:56:33   No._Of_Results:  418  time_elapse:  131  s
+#Patriots    From:  2015-02-01 18:56:33    To:  2015-02-01 18:57:39   No._Of_Results:  139  time_elapse:  66  s
+#Patriots    From:  2015-02-01 18:57:39    To:  2015-02-01 18:58:45   No._Of_Results:  364  time_elapse:  66  s
+#Patriots    From:  2015-02-01 18:58:45    To:  2015-02-01 18:59:50   No._Of_Results:  280  time_elapse:  65  s
+#Patriots    From:  2015-02-01 18:59:50    To:  2015-02-01 19:00:23   No._Of_Results:  347  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:00:23    To:  2015-02-01 19:00:39   No._Of_Results:  309  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:00:39    To:  2015-02-01 19:00:56   No._Of_Results:  339  time_elapse:  17  s
+#Patriots    From:  2015-02-01 19:00:56    To:  2015-02-01 19:01:12   No._Of_Results:  438  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:01:12    To:  2015-02-01 19:01:28   No._Of_Results:  423  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:01:28    To:  2015-02-01 19:01:44   No._Of_Results:  386  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:01:44    To:  2015-02-01 19:02:01   No._Of_Results:  396  time_elapse:  17  s
+#Patriots    From:  2015-02-01 19:02:01    To:  2015-02-01 19:02:17   No._Of_Results:  311  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:02:17    To:  2015-02-01 19:02:34   No._Of_Results:  269  time_elapse:  17  s
+#Patriots    From:  2015-02-01 19:02:34    To:  2015-02-01 19:03:07   No._Of_Results:  426  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:03:07    To:  2015-02-01 19:03:39   No._Of_Results:  320  time_elapse:  32  s
+#Patriots    From:  2015-02-01 19:03:39    To:  2015-02-01 19:04:12   No._Of_Results:  402  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:04:12    To:  2015-02-01 19:04:45   No._Of_Results:  308  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:04:45    To:  2015-02-01 19:05:18   No._Of_Results:  320  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:05:18    To:  2015-02-01 19:05:51   No._Of_Results:  376  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:05:51    To:  2015-02-01 19:06:24   No._Of_Results:  429  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:06:24    To:  2015-02-01 19:06:40   No._Of_Results:  314  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:06:40    To:  2015-02-01 19:06:57   No._Of_Results:  483  time_elapse:  17  s
+#Patriots    From:  2015-02-01 19:06:57    To:  2015-02-01 19:07:13   No._Of_Results:  386  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:07:13    To:  2015-02-01 19:07:30   No._Of_Results:  440  time_elapse:  17  s
+#Patriots    From:  2015-02-01 19:07:30    To:  2015-02-01 19:07:46   No._Of_Results:  424  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:07:46    To:  2015-02-01 19:08:02   No._Of_Results:  490  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:08:02    To:  2015-02-01 19:08:18   No._Of_Results:  496  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:08:18    To:  2015-02-01 19:08:26   No._Of_Results:  246  time_elapse:  8  s
+#Patriots    From:  2015-02-01 19:08:26    To:  2015-02-01 19:08:35   No._Of_Results:  289  time_elapse:  9  s
+#Patriots    From:  2015-02-01 19:08:35    To:  2015-02-01 19:08:51   No._Of_Results:  435  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:08:51    To:  2015-02-01 19:09:08   No._Of_Results:  491  time_elapse:  17  s
+#Patriots    From:  2015-02-01 19:09:08    To:  2015-02-01 19:09:24   No._Of_Results:  447  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:09:24    To:  2015-02-01 19:09:41   No._Of_Results:  415  time_elapse:  17  s
+#Patriots    From:  2015-02-01 19:09:41    To:  2015-02-01 19:09:57   No._Of_Results:  392  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:09:57    To:  2015-02-01 19:10:13   No._Of_Results:  309  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:10:13    To:  2015-02-01 19:10:29   No._Of_Results:  308  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:10:29    To:  2015-02-01 19:10:46   No._Of_Results:  290  time_elapse:  17  s
+#Patriots    From:  2015-02-01 19:10:46    To:  2015-02-01 19:11:02   No._Of_Results:  368  time_elapse:  16  s
+#Patriots    From:  2015-02-01 19:11:02    To:  2015-02-01 19:11:19   No._Of_Results:  351  time_elapse:  17  s
+#Patriots    From:  2015-02-01 19:11:19    To:  2015-02-01 19:11:52   No._Of_Results:  458  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:11:52    To:  2015-02-01 19:12:24   No._Of_Results:  489  time_elapse:  32  s
+#Patriots    From:  2015-02-01 19:12:24    To:  2015-02-01 19:12:57   No._Of_Results:  445  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:12:57    To:  2015-02-01 19:13:30   No._Of_Results:  436  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:13:30    To:  2015-02-01 19:14:03   No._Of_Results:  433  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:14:03    To:  2015-02-01 19:14:36   No._Of_Results:  355  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:14:36    To:  2015-02-01 19:15:09   No._Of_Results:  418  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:15:09    To:  2015-02-01 19:15:42   No._Of_Results:  343  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:15:42    To:  2015-02-01 19:16:15   No._Of_Results:  364  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:16:15    To:  2015-02-01 19:16:47   No._Of_Results:  333  time_elapse:  32  s
+#Patriots    From:  2015-02-01 19:16:47    To:  2015-02-01 19:17:20   No._Of_Results:  386  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:17:20    To:  2015-02-01 19:17:53   No._Of_Results:  336  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:17:53    To:  2015-02-01 19:18:26   No._Of_Results:  342  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:18:26    To:  2015-02-01 19:18:58   No._Of_Results:  323  time_elapse:  32  s
+#Patriots    From:  2015-02-01 19:18:58    To:  2015-02-01 19:19:31   No._Of_Results:  323  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:19:31    To:  2015-02-01 19:20:04   No._Of_Results:  343  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:20:04    To:  2015-02-01 19:20:37   No._Of_Results:  245  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:20:37    To:  2015-02-01 19:21:42   No._Of_Results:  491  time_elapse:  65  s
+#Patriots    From:  2015-02-01 19:21:42    To:  2015-02-01 19:22:15   No._Of_Results:  300  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:22:15    To:  2015-02-01 19:22:48   No._Of_Results:  308  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:22:48    To:  2015-02-01 19:23:21   No._Of_Results:  290  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:23:21    To:  2015-02-01 19:23:54   No._Of_Results:  243  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:23:54    To:  2015-02-01 19:25:00   No._Of_Results:  492  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:25:00    To:  2015-02-01 19:25:32   No._Of_Results:  250  time_elapse:  32  s
+#Patriots    From:  2015-02-01 19:25:32    To:  2015-02-01 19:26:05   No._Of_Results:  259  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:26:05    To:  2015-02-01 19:27:11   No._Of_Results:  484  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:27:11    To:  2015-02-01 19:27:43   No._Of_Results:  246  time_elapse:  32  s
+#Patriots    From:  2015-02-01 19:27:43    To:  2015-02-01 19:28:16   No._Of_Results:  255  time_elapse:  33  s
+#Patriots    From:  2015-02-01 19:28:16    To:  2015-02-01 19:29:22   No._Of_Results:  475  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:29:22    To:  2015-02-01 19:30:27   No._Of_Results:  439  time_elapse:  65  s
+#Patriots    From:  2015-02-01 19:30:27    To:  2015-02-01 19:31:33   No._Of_Results:  392  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:31:33    To:  2015-02-01 19:32:39   No._Of_Results:  367  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:32:39    To:  2015-02-01 19:33:45   No._Of_Results:  379  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:33:45    To:  2015-02-01 19:34:50   No._Of_Results:  353  time_elapse:  65  s
+#Patriots    From:  2015-02-01 19:34:50    To:  2015-02-01 19:35:56   No._Of_Results:  340  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:35:56    To:  2015-02-01 19:37:01   No._Of_Results:  278  time_elapse:  65  s
+#Patriots    From:  2015-02-01 19:37:01    To:  2015-02-01 19:38:07   No._Of_Results:  315  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:38:07    To:  2015-02-01 19:39:12   No._Of_Results:  354  time_elapse:  65  s
+#Patriots    From:  2015-02-01 19:39:12    To:  2015-02-01 19:40:18   No._Of_Results:  251  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:40:18    To:  2015-02-01 19:41:24   No._Of_Results:  256  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:41:24    To:  2015-02-01 19:42:30   No._Of_Results:  400  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:42:30    To:  2015-02-01 19:43:35   No._Of_Results:  318  time_elapse:  65  s
+#Patriots    From:  2015-02-01 19:43:35    To:  2015-02-01 19:44:41   No._Of_Results:  300  time_elapse:  66  s
+#Patriots    From:  2015-02-01 19:44:41    To:  2015-02-01 19:46:52   No._Of_Results:  491  time_elapse:  131  s
+#Patriots    From:  2015-02-01 19:46:52    To:  2015-02-01 19:49:03   No._Of_Results:  464  time_elapse:  131  s
+#Patriots    From:  2015-02-01 19:49:03    To:  2015-02-01 19:51:15   No._Of_Results:  461  time_elapse:  132  s
+#Patriots    From:  2015-02-01 19:51:15    To:  2015-02-01 20:00:00   No._Of_Results:  410  time_elapse:  525  s
+#GoHawks    From:  2015-02-01 18:50:00    To:  2015-02-01 18:51:05   No._Of_Results:  242  time_elapse:  65  s
+#GoHawks    From:  2015-02-01 18:51:05    To:  2015-02-01 18:52:11   No._Of_Results:  333  time_elapse:  66  s
+#GoHawks    From:  2015-02-01 18:52:11    To:  2015-02-01 18:54:22   No._Of_Results:  405  time_elapse:  131  s
+#GoHawks    From:  2015-02-01 18:54:22    To:  2015-02-01 18:56:33   No._Of_Results:  201  time_elapse:  131  s
+#GoHawks    From:  2015-02-01 18:56:33    To:  2015-02-01 18:57:39   No._Of_Results:  195  time_elapse:  66  s
+#GoHawks    From:  2015-02-01 18:57:39    To:  2015-02-01 18:58:12   No._Of_Results:  384  time_elapse:  33  s
+#GoHawks    From:  2015-02-01 18:58:12    To:  2015-02-01 18:58:28   No._Of_Results:  243  time_elapse:  16  s
+#GoHawks    From:  2015-02-01 18:58:28    To:  2015-02-01 18:58:45   No._Of_Results:  268  time_elapse:  17  s
+#GoHawks    From:  2015-02-01 18:58:45    To:  2015-02-01 18:59:17   No._Of_Results:  344  time_elapse:  32  s
+#GoHawks    From:  2015-02-01 18:59:17    To:  2015-02-01 18:59:50   No._Of_Results:  172  time_elapse:  33  s
+#GoHawks    From:  2015-02-01 18:59:50    To:  2015-02-01 19:00:56   No._Of_Results:  69  time_elapse:  66  s
+#GoHawks    From:  2015-02-01 19:00:56    To:  2015-02-01 19:03:07   No._Of_Results:  125  time_elapse:  131  s
+#GoHawks    From:  2015-02-01 19:03:07    To:  2015-02-01 19:07:30   No._Of_Results:  324  time_elapse:  263  s
+#GoHawks    From:  2015-02-01 19:07:30    To:  2015-02-01 19:09:41   No._Of_Results:  313  time_elapse:  131  s
+#GoHawks    From:  2015-02-01 19:09:41    To:  2015-02-01 19:11:52   No._Of_Results:  260  time_elapse:  131  s
+#GoHawks    From:  2015-02-01 19:11:52    To:  2015-02-01 19:16:15   No._Of_Results:  438  time_elapse:  263  s
+#GoHawks    From:  2015-02-01 19:16:15    To:  2015-02-01 19:20:37   No._Of_Results:  378  time_elapse:  262  s
+#GoHawks    From:  2015-02-01 19:20:37    To:  2015-02-01 19:25:00   No._Of_Results:  347  time_elapse:  263  s
+#GoHawks    From:  2015-02-01 19:25:00    To:  2015-02-01 19:29:22   No._Of_Results:  301  time_elapse:  262  s
+#GoHawks    From:  2015-02-01 19:29:22    To:  2015-02-01 19:33:45   No._Of_Results:  254  time_elapse:  263  s
+#GoHawks    From:  2015-02-01 19:33:45    To:  2015-02-01 19:42:30   No._Of_Results:  493  time_elapse:  525  s
+#GoHawks    From:  2015-02-01 19:42:30    To:  2015-02-01 19:51:15   No._Of_Results:  426  time_elapse:  525  s
+#GoHawks    From:  2015-02-01 19:51:15    To:  2015-02-01 20:00:00   No._Of_Results:  93  time_elapse:  525  s
+#GoPatriots    From:  2015-02-01 18:50:00    To:  2015-02-01 18:54:22   No._Of_Results:  475  time_elapse:  262  s
+#GoPatriots    From:  2015-02-01 18:54:22    To:  2015-02-01 18:58:45   No._Of_Results:  192  time_elapse:  263  s
+#GoPatriots    From:  2015-02-01 18:58:45    To:  2015-02-01 19:00:56   No._Of_Results:  215  time_elapse:  131  s
+#GoPatriots    From:  2015-02-01 19:00:56    To:  2015-02-01 19:02:01   No._Of_Results:  304  time_elapse:  65  s
+#GoPatriots    From:  2015-02-01 19:02:01    To:  2015-02-01 19:03:07   No._Of_Results:  207  time_elapse:  66  s
+#GoPatriots    From:  2015-02-01 19:03:07    To:  2015-02-01 19:05:18   No._Of_Results:  226  time_elapse:  131  s
+#GoPatriots    From:  2015-02-01 19:05:18    To:  2015-02-01 19:07:30   No._Of_Results:  342  time_elapse:  132  s
+#GoPatriots    From:  2015-02-01 19:07:30    To:  2015-02-01 19:09:41   No._Of_Results:  465  time_elapse:  131  s
+#GoPatriots    From:  2015-02-01 19:09:41    To:  2015-02-01 19:11:52   No._Of_Results:  296  time_elapse:  131  s
+#GoPatriots    From:  2015-02-01 19:11:52    To:  2015-02-01 19:16:15   No._Of_Results:  327  time_elapse:  263  s
+#GoPatriots    From:  2015-02-01 19:16:15    To:  2015-02-01 19:25:00   No._Of_Results:  412  time_elapse:  525  s
+#GoPatriots    From:  2015-02-01 19:25:00    To:  2015-02-01 19:42:30   No._Of_Results:  423  time_elapse:  1050  s
+#GoPatriots    From:  2015-02-01 19:42:30    To:  2015-02-01 20:00:00   No._Of_Results:  161  time_elapse:  1050  s
+#Halftime    From:  2015-02-01 18:50:00    To:  2015-02-01 19:07:30   No._Of_Results:  444  time_elapse:  1050  s
+#Halftime    From:  2015-02-01 19:07:30    To:  2015-02-01 19:25:00   No._Of_Results:  343  time_elapse:  1050  s
+#Halftime    From:  2015-02-01 19:25:00    To:  2015-02-01 19:42:30   No._Of_Results:  337  time_elapse:  1050  s
+#Halftime    From:  2015-02-01 19:42:30    To:  2015-02-01 20:00:00   No._Of_Results:  202  time_elapse:  1050  s
+#superbowlcommercials    From:  2015-02-01 18:50:00    To:  2015-02-01 18:54:22   No._Of_Results:  451  time_elapse:  262  s
+#superbowlcommercials    From:  2015-02-01 18:54:22    To:  2015-02-01 18:58:45   No._Of_Results:  232  time_elapse:  263  s
+#superbowlcommercials    From:  2015-02-01 18:58:45    To:  2015-02-01 19:07:30   No._Of_Results:  137  time_elapse:  525  s
+#superbowlcommercials    From:  2015-02-01 19:07:30    To:  2015-02-01 19:25:00   No._Of_Results:  495  time_elapse:  1050  s
+#superbowlcommercials    From:  2015-02-01 19:25:00    To:  2015-02-01 19:42:30   No._Of_Results:  481  time_elapse:  1050  s
+#superbowlcommercials    From:  2015-02-01 19:42:30    To:  2015-02-01 20:00:00   No._Of_Results:  182  time_elapse:  1050  s
