@@ -1,8 +1,8 @@
-total number of  #SuperBowlXLIX :  51897
-total number of  #Seahawks :  23837
-total number of  #Patriots :  33128
-total number of  #GoHawks :  6614
-total number of  #GoPatriots :  4050
+total number of  #SuperBowlXLIX :  51878
+total number of  #Seahawks :  23830
+total number of  #Patriots :  33107
+total number of  #GoHawks :  6608
+total number of  #GoPatriots :  4045
 total number of  #Halftime :  1326
-total number of  #superbowlcommercials :  1979
+total number of  #superbowlcommercials :  1978
 most popular hashtag is:  #SuperBowlXLIX
