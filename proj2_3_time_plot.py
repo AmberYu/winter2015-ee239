@@ -6,7 +6,6 @@ Created on Sun Feb 22 12:50:31 2015
 """
 
 import matplotlib.pyplot as plt
-import time
 import datetime
 
 f=open('numbers_persecond_SuperBowlXLIX.txt','r')
