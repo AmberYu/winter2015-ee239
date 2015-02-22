@@ -16,9 +16,9 @@ host = 'api.topsy.com'
 url = '/v2/content/tweets.json'
 
 #########   set query parameters
-params = urllib.urlencode({'apikey' : API_KEY, 'q' :'#Halftime',
+params = urllib.urlencode({'apikey' : API_KEY, 'q' :'#SuperBowlXLIX',
                            'mintime': str(mintime), 'maxtime': str(maxtime),
-                           'new_only': '1', 'include_metrics':'1', 'limit': 10})
+                           'new_only': '1', 'include_metrics':'1', 'limit': 5})
 
 
 
