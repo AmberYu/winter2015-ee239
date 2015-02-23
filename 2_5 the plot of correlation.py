@@ -14,7 +14,7 @@ f=open('first_second_correlation.txt','r')
 for line in f:
 	data=line.split()
 	rate.append(data[6])
-	timefrom=datetime.datetime.fromtimestamp(float(data[0]).strftime('%H:%M:%S')
+	timefrom=time.strftime("%H:%M:%S",time.localtime(float(data[0])))
 	elapse.append(timefrom)
 
 ##Draw the line 
@@ -25,3 +25,5 @@ plt.title('The Correlation Over Time')
 plt.plot(rate)
 ax.set_xticklabels(elapse,rotation=20, rotation_mode="anchor", ha="right")
 plt.show()
+
+f.close()
