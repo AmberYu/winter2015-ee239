@@ -8,29 +8,26 @@ Created on Sun Feb 22 12:50:31 2015
 import matplotlib.pyplot as plt
 import datetime
 
+
 f=open('numbers_persecond_SuperBowlXLIX.txt','r')
-tmstmp1=[]
-rate1=[]
+tm=[]
+rate=[]
 
 for line in f:
     data=line.split()
-    tmstmp1.append(data[0])
-    rate1.append(data[2])
+    rate.append(float(data[2])
+    timefrom=time.strftime("%H:%M:%S",time.localtime(float(data[0])))
+    tm.append(timefrom)
     
-tmstmp=map(int,tmstmp1)
-rate=map(float,rate1)
 
-
-##Transfer the timestamp into standard time
-stm=[]
-for i in tmstmp:
-    stm.append(datetime.datetime.fromtimestamp(i).strftime('%H:%M:%S'))
 
 ##Draw the plot
-plt.title('Number of Tweets Per Second')
+ax=plt.subplot(111)
 plt.xlabel('Time')
 plt.ylabel('Number of Tweets')
-plt.plot(stm,rate)
+plt.title('Number of Tweets Per Second')
+plt.plot(rate)
+ax.set_xticklabels(elapse,rotation=20, rotation_mode="anchor", ha="right")
 plt.show()
 
 f.close()
