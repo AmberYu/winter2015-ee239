@@ -14,15 +14,17 @@ average number of retweets.
 Plot "number of tweets in hour" over time for #SuperBowl and #NFL (a histogram with 1-hour bins).
 """
 
+import os
 import json
 
-def part1(filename):
+def getResults(filename):
     tweets = []
     firstpo_date = []
     retweets = []
     followers = []
     
-    for line in open(filename):
+    f=open(filename)
+    for line in f:
         try: 
             tweets.append(json.loads(line))
         except:
@@ -43,15 +45,29 @@ def part1(filename):
     avgtweets = float(tweetnum)*3600/float(delta)
     avgfollowers = sum(followers)/float(len(followers))
     avgretweets = float(sum(retweets))/float(retweetlen)
+    hashtag=filename[7:-4]
     
+    Statistical_Results = open('Statistical_Results', 'a')
     
-    print 'mintime: ', mintime
-    print 'maxtime:', maxtime
+    print hashtag
     print 'The average number of tweets per hour: ', ('%.2f' % avgtweets)
     print 'The average number of followers of users posting the tweets: ', ('%.2f' % avgfollowers)
     print 'The average number of average number of retweets: ', ('%.2f' % avgretweets)
+    
+    print>>Statistical_Results, hashtag
+    print>>Statistical_Results, 'The average number of tweets per hour: ', ('%.2f' % avgtweets)
+    print>>Statistical_Results, 'The average number of followers of users posting the tweets: ', ('%.2f' % avgfollowers)
+    print>>Statistical_Results, 'The average number of average number of retweets: ', ('%.2f' % avgretweets)
+    Statistical_Results.close()    
+    f.close()
+    
+def result():
+    directory=os.getcwd()
+    for file in os.listdir(directory):
+        if file.endswith('.txt'):
+            getResults(file)
 
-part1('tweets_#gopatriots.txt')
+result()
 
 
 
