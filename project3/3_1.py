@@ -5,14 +5,6 @@ Created on Fri Mar 13 16:13:02 2015
 @author: duanhaiman
 """
 
-"""
-Calculate for each hashtag:
-average number of tweets per hour,
-average number of followers of users posting the tweets, 
-average number of retweets. 
-
-Plot "number of tweets in hour" over time for #SuperBowl and #NFL (a histogram with 1-hour bins).
-"""
 
 import os
 import json
@@ -22,6 +14,7 @@ def getResults(filename):
     firstpo_date = []
     retweets = []
     followers = []
+    uniqueTweets = []
     
     f=open(filename)
     for line in f:
@@ -34,8 +27,12 @@ def getResults(filename):
     for i in range(len(tweets)):
         firstpo_date.append(tweets[i]['firstpost_date'])
         retweets.append(tweets[i]['tweet']['retweet_count'])
-        followers.append(tweets[i]['tweet']['user']['followers_count'])
-    
+        if tweets[i]['tweet']['user']['id'] in uniqueTweets:
+		continue
+        else:
+		uniqueTweets.append(tweets[i]['tweet']['user']['id'])
+		followers.append(tweets[i]['tweet']['user']['followers_count'])
+
     
     tweetnum = len(tweets)
     mintime = min(firstpo_date)
@@ -68,14 +65,5 @@ def result():
             getResults(file)
 
 result()
-
-
-
-
-
-
-
-
-
 
 
