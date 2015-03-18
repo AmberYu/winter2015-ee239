@@ -1,0 +1,25 @@
+#gohawks
+The average number of tweets per hour:  193.54
+The average number of followers of users posting the tweets:  2393.58
+The average number of average number of retweets:  0.21
+#gopatriots
+The average number of tweets per hour:  38.38
+The average number of followers of users posting the tweets:  1602.01
+The average number of average number of retweets:  0.03
+#nfl
+The average number of tweets per hour:  279.55
+The average number of followers of users posting the tweets:  4763.33
+The average number of average number of retweets:  0.05
+#patriots
+The average number of tweets per hour:  499.42
+The average number of followers of users posting the tweets:  3641.69
+The average number of average number of retweets:  0.09
+#sb49
+The average number of tweets per hour:  1419.89
+The average number of followers of users posting the tweets:  10230.05
+The average number of average number of retweets:  0.18
+#superbowl
+The average number of tweets per hour:  1401.25
+The average number of followers of users posting the tweets:  9958.12
+The average number of average number of retweets:  0.14
+
