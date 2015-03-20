@@ -22,7 +22,7 @@ for i in range(len(tweets)):
 	cur_time = tweets[i]['firstpost_date']
 	index = (cur_time-start)/3600
 	time_window[index][0] = time_window[index][0]+1
-	time_window[index][1] = time_window[index][1]+tweets[i]['tweet']['retweet_count']
+	time_window[index][1] = time_window[index][1]+tweets[i]['metrics']['citations']['data'][0]['citations']
 	time_window[index][2] = max(time_window[index][2],tweets[i]['tweet']['user']['followers_count'])
 	time_window[index][3] = time_window[index][3]+tweets[i]['tweet']['favorite_count']
 	time_window[index][4] = time_window[index][4]+tweets[i]['tweet']['user']['friends_count']

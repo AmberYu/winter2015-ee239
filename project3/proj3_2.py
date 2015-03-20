@@ -22,7 +22,7 @@ def getResults(filename):
 		cur_time = tweets[i]['firstpost_date']
 		index = (cur_time-start)/3600
 		time_window[index][0] = time_window[index][0]+1
-		time_window[index][1] = time_window[index][1]+tweets[i]['tweet']['retweet_count']
+		time_window[index][1] = time_window[index][1]+tweets[i]['metrics']['citations']['data'][0]['citations']
 		time_window[index][2] = time_window[index][2]+tweets[i]['author']['followers']
 		time_window[index][3] = max(time_window[index][3],tweets[i]['tweet']['user']['followers_count'])
 		cur_time = time.strftime('%H:%M:%S', time.gmtime(cur_time))
