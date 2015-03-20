@@ -6,7 +6,7 @@ import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
 tweets = []
-f=open('tweets_#sb49.txt')
+f=open('tweets_#superbowl.txt')
 for line in f:
 	try: 
 		tweets.append(json.loads(line))
@@ -37,14 +37,14 @@ Y = np.array(y)
 model = sm.OLS(Y, X)
 results = model.fit()
 
-hashtag='#sb49'
+hashtag='#superbowl'
 
-Time_Windows = open('Time_Windows_3#sb49.txt', 'a')
+Time_Windows = open('Time_Windows_3#superbowl.txt', 'a')
 print>>Time_Windows, hashtag
 print>>Time_Windows, time_window
 Time_Windows.close()
 
-Linear_Regression_model = open('Linear_Regression_model_3#sb49.txt', 'a')
+Linear_Regression_model = open('Linear_Regression_model_3#superbowl.txt', 'a')
 print(results.summary())
 y_predict=results.predict()
 print>>Linear_Regression_model, hashtag
@@ -64,19 +64,19 @@ for i in range(interval+1):
 plt.figure(1)
 plt.xlabel('Number of tweets')
 plt.ylabel('Prediction')
-plt.title('Prediction versus number of tweets for #sb49')
+plt.title('Prediction versus number of tweets for #superbowl')
 plt.scatter(x1, y_predict, alpha=0.5)
 
 plt.figure(2)
 plt.xlabel('Maximum number of followers')
 plt.ylabel('Prediction')
-plt.title('Prediction versus maximum number of followers for #sb49')
+plt.title('Prediction versus maximum number of followers for #superbowl')
 plt.scatter(x3, y_predict, alpha=0.5)
 
 plt.figure(3)
 plt.xlabel('number of friends')
 plt.ylabel('Prediction')
-plt.title('Prediction versus number of friends for #sb49')
+plt.title('Prediction versus number of friends for #superbowl')
 plt.scatter(x5, y_predict, alpha=0.5)
 
 plt.show()

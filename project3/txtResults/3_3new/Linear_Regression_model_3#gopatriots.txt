@@ -1,0 +1,32 @@
+#gopatriots
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.605
+Model:                            OLS   Adj. R-squared:                  0.601
+Method:                 Least Squares   F-statistic:                     172.8
+Date:                Fri, 20 Mar 2015   Prob (F-statistic):          5.40e-133
+Time:                        01:35:31   Log-Likelihood:                -4551.0
+No. Observations:                 684   AIC:                             9114.
+Df Residuals:                     678   BIC:                             9141.
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [95.0% Conf. Int.]
+------------------------------------------------------------------------------
+x1             0.3790      0.304      1.245      0.213        -0.219     0.977
+x2            13.1461      4.721      2.784      0.006         3.876    22.417
+x3          6.236e-06   6.39e-05      0.098      0.922        -0.000     0.000
+x4           -27.6364      1.786    -15.473      0.000       -31.143   -24.129
+x5             0.0010      0.000      2.027      0.043      3.02e-05     0.002
+x6           -13.5958      8.608     -1.579      0.115       -30.498     3.306
+==============================================================================
+Omnibus:                     1082.987   Durbin-Watson:                   2.314
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           600365.232
+Skew:                           9.094   Prob(JB):                         0.00
+Kurtosis:                     146.995   Cond. No.                     2.53e+05
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.53e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
