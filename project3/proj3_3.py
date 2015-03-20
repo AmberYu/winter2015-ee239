@@ -46,7 +46,7 @@ Time_Windows.close()
 
 Linear_Regression_model = open('Linear_Regression_model_3#sb49.txt', 'a')
 print(results.summary())
-
+y_predict=results.predict()
 print>>Linear_Regression_model, hashtag
 print>>Linear_Regression_model, results.summary()
 Linear_Regression_model.close()
@@ -65,19 +65,19 @@ plt.figure(1)
 plt.xlabel('Number of tweets')
 plt.ylabel('Prediction')
 plt.title('Prediction versus number of tweets for #sb49')
-plt.scatter(x1, y, alpha=0.5)
+plt.scatter(x1, y_predict, alpha=0.5)
 
 plt.figure(2)
 plt.xlabel('Maximum number of followers')
 plt.ylabel('Prediction')
 plt.title('Prediction versus maximum number of followers for #sb49')
-plt.scatter(x3, y, alpha=0.5)
+plt.scatter(x3, y_predict, alpha=0.5)
 
 plt.figure(3)
 plt.xlabel('number of friends')
 plt.ylabel('Prediction')
 plt.title('Prediction versus number of friends for #sb49')
-plt.scatter(x5, y, alpha=0.5)
+plt.scatter(x5, y_predict, alpha=0.5)
 
 plt.show()
 
