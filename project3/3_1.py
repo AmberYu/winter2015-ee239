@@ -54,7 +54,7 @@ def getResults(filename):
     print>>Statistical_Results, hashtag
     print>>Statistical_Results, 'The average number of tweets per hour: ', ('%.2f' % avgtweets)
     print>>Statistical_Results, 'The average number of followers of users posting the tweets: ', ('%.2f' % avgfollowers)
-    print>>Statistical_Results, 'The average number of average number of retweets: ', ('%.2f' % avgretweets)
+    print>>Statistical_Results, 'The average number of retweets: ', ('%.2f' % avgretweets)
     Statistical_Results.close()    
     f.close()
     
